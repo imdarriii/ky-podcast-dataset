@@ -13,7 +13,10 @@
    или с GitHub: https://colab.research.google.com/github/imdarriii/ky-podcast-dataset/blob/main/colab_nemo.ipynb
 3. Runtime → Change runtime type → **T4 GPU** → Save
 4. Runtime → Restart session
-5. Runtime → **Run all**
+5. Запусти ячейку с `pip` один раз  
+6. **Runtime → Restart session** (обязательно, иначе numpy падает)  
+7. Ячейку с `pip` больше не трогай  
+8. Запусти ячейку `nvidia-smi` и все ниже до конца
 
 Если YouTube в Colab заблокирует скачивание — ячейка 3 упадёт. Тогда скачай звук дома тем же yt-dlp (без `--audio-format mp3`) и залей файл в Files слева, ячейку 3 поправь на этот файл.
 
