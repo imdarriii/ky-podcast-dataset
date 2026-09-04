@@ -1,0 +1,12 @@
+{
+  "cleanUrls": false,
+  "headers": [
+    {
+      "source": "/audio/(.*).opus",
+      "headers": [
+        { "key": "Content-Type", "value": "audio/ogg; codecs=opus" },
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    }
+  ]
+}

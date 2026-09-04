@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Сөздүн күчү — кыргызский датасет</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="wrap">
+    <p class="kicker">Kyrgyz speech dataset</p>
+    <nav class="shows" id="shows"></nav>
+    <h1 id="title">Сөздүн күчү</h1>
+    <p class="lead">
+      Разговорный кыргызский подкаст: целые реплики, два спикера.
+      Звук — исходный YouTube, без MP3 и без чистки.
+      Диаризация NVIDIA NeMo, текст GigaAM large_ctc.
+    </p>
+    <div class="stats" id="stats"></div>
+    <p class="downloads">
+      <a class="dl" id="dl-json" href="./podcast.json" download="podcast.json">Скачать JSON</a>
+      <a class="dl" id="dl-zip" href="https://gofile.io/d/xtMjPGvw" target="_blank" rel="noreferrer">Скачать папку (wav + JSON)</a>
+    </p>
+    <div class="filters" id="filters"></div>
+    <div id="clips"></div>
+    <p class="foot">
+      Источник:
+      <a id="yt" href="https://youtu.be/p3DNXhhp71w">youtu.be/p3DNXhhp71w</a>.
+      Аудио принадлежит авторам ролика; эта страница — витрина разметки.
+    </p>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+torch>=2.10
+torchaudio>=2.10
+torchvision
+# Official toolkit from https://github.com/pyannote/pyannote-audio.git
+pyannote.audio @ git+https://github.com/pyannote/pyannote-audio.git
+transformers>=5.0.0.dev0
+hydra-core
+omegaconf
+huggingface_hub
+soundfile
+numpy
+sentencepiece
+silero-vad
+demucs
+yt-dlp
+deepfilter-stream
+onnxruntime
+noisereduce

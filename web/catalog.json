@@ -1,0 +1,17 @@
+{
+  "title": "Kyrgyz podcast speech dataset",
+  "podcasts": [
+    {
+      "id": "p3DNXhhp71w",
+      "title": "Сөздүн күчү",
+      "youtube_url": "https://youtu.be/p3DNXhhp71w",
+      "json": "./podcast.json",
+      "audio_prefix": "./audio/",
+      "folder_zip": "https://gofile.io/d/xtMjPGvw",
+      "speakers": {
+        "SPEAKER_00": { "name": "Нуркыз Кадырбекова", "role": "Конок", "klass": "guest" },
+        "SPEAKER_01": { "name": "Гүлзада Таалайбекова", "role": "Алып баруучу", "klass": "host" }
+      }
+    }
+  ]
+}
