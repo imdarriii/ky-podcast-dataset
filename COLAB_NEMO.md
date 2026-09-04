@@ -1,32 +1,25 @@
-# NVIDIA NeMo + чистый YouTube-звук
+# Colab: второй подкаст (быстро, GPU)
 
-Диаризация не меняет голос. Робот шёл от `--audio-format mp3` (Opus → MP3).  
-Скачиваем родной Opus, один раз декодируем в WAV.
+Локальный CPU слишком долгий. Гони тот же процесс в Colab на **T4 GPU**.
 
-## GitHub NVIDIA
+Ноутбук: `colab_nemo.ipynb`  
+Ролик: https://youtu.be/h1615IhITQ4  
+2 спикера, NeMo + GigaAM, без MP3.
 
-- https://github.com/NVIDIA/NeMo
-- https://github.com/NVIDIA-NeMo/Speech
-- Конфиг: https://github.com/NVIDIA-NeMo/Speech/blob/main/examples/speaker_tasks/diarization/conf/inference/diar_infer_meeting.yaml
+## Как открыть
 
-Модели: `vad_multilingual_marblenet` + `titanet_large` + `ClusteringDiarizer`
+1. https://colab.research.google.com
+2. File → Upload notebook → `C:\Users\RedmiBook\Desktop\diarization\colab_nemo.ipynb`
+   или с GitHub: https://colab.research.google.com/github/imdarriii/ky-podcast-dataset/blob/main/colab_nemo.ipynb
+3. Runtime → Change runtime type → **T4 GPU** → Save
+4. Runtime → Restart session
+5. Runtime → **Run all**
 
-## Скачивание
+Если YouTube в Colab заблокирует скачивание — ячейка 3 упадёт. Тогда скачай звук дома тем же yt-dlp (без `--audio-format mp3`) и залей файл в Files слева, ячейку 3 поправь на этот файл.
 
-```
-yt-dlp -f "bestaudio[acodec^=opus]/bestaudio/best" URL
-```
+## Что скачать в конце
 
-Без `--extract-audio --audio-format mp3`.
+В Files появится `nemo_speakers_native.zip` (wav + podcast.json).  
+Скачай и напиши мне — встрою реплики в публичный сайт.
 
-Потом два WAV из одного файла:
-
-- `podcast_16k.wav` — только для NeMo
-- `podcast_hq.wav` — 44.1 kHz, из него режем клипы
-
-## Colab
-
-Открой `colab_nemo.ipynb`, Runtime → T4 GPU, гони ячейки сверху вниз.  
-Ничего заливать не нужно: ячейка 3 сама качает `https://youtu.be/p3DNXhhp71w`.
-
-Если YouTube в Colab заблокирует — скачай локально тем же флагом и залей файл в Files.
+Не используй `--extract-audio --audio-format mp3`.
