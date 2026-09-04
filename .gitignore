@@ -1,3 +1,4 @@
+.tools/
 venv/
 .venv/
 __pycache__/
