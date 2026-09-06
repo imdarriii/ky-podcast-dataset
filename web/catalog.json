@@ -8,10 +8,41 @@
       "json": "./podcast.json",
       "audio_prefix": "./audio/",
       "folder_zip": "https://gofile.io/d/xtMjPGvw",
+      "num_clips": 31,
+      "blurb": "31 реплика · 2 спикера · 36 мин",
       "speakers": {
-        "SPEAKER_00": { "name": "Нуркыз Кадырбекова", "role": "Конок", "klass": "guest" },
-        "SPEAKER_01": { "name": "Гүлзада Таалайбекова", "role": "Алып баруучу", "klass": "host" }
+        "SPEAKER_00": {
+          "name": "Нуркыз Кадырбекова",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "Гүлзада Таалайбекова",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
       }
+    },
+    {
+      "id": "h1615IhITQ4",
+      "title": "Накта подкаст — Айзада Жамгырчиева",
+      "youtube_url": "https://youtu.be/h1615IhITQ4",
+      "json": "./podcasts/h1615IhITQ4/podcast.json",
+      "audio_prefix": "./podcasts/h1615IhITQ4/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "Нурсейит Анаркулов",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_01": {
+          "name": "Айзада Жамгырчиева",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 509,
+      "blurb": "509 реплик · 2 спикера · 2.0 ч"
     }
   ]
 }

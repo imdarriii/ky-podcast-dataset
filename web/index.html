@@ -3,31 +3,90 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Сөздүн күчү — кыргызский датасет</title>
+  <title>ky-podcast-dataset — Dataset</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <main class="wrap">
-    <p class="kicker">Kyrgyz speech dataset</p>
-    <nav class="shows" id="shows"></nav>
-    <h1 id="title">Сөздүн күчү</h1>
-    <p class="lead">
-      Разговорный кыргызский подкаст: целые реплики, два спикера.
-      Звук — исходный YouTube, без MP3 и без чистки.
-      Диаризация NVIDIA NeMo, текст GigaAM large_ctc.
-    </p>
-    <div class="stats" id="stats"></div>
-    <p class="downloads">
-      <a class="dl" id="dl-json" href="./podcast.json" download="podcast.json">Скачать JSON</a>
-      <a class="dl" id="dl-zip" href="https://gofile.io/d/xtMjPGvw" target="_blank" rel="noreferrer">Скачать папку (wav + JSON)</a>
-    </p>
-    <div class="filters" id="filters"></div>
-    <div id="clips"></div>
-    <p class="foot">
-      Источник:
-      <a id="yt" href="https://youtu.be/p3DNXhhp71w">youtu.be/p3DNXhhp71w</a>.
-      Аудио принадлежит авторам ролика; эта страница — витрина разметки.
-    </p>
+  <header class="top">
+    <a class="brand" href="./">imdarriii / <b>ky-podcast-dataset</b></a>
+    <span class="badge">Dataset</span>
+  </header>
+
+  <main class="page">
+    <section id="home">
+      <h1>Kyrgyz podcast speech dataset</h1>
+      <p class="sub">Сначала выбери выпуск. Потом — спикеры, клипы, тексты и скачивание, как в Dataset Viewer.</p>
+      <div class="tags" id="home-tags"></div>
+      <div class="shows" id="shows"></div>
+    </section>
+
+    <section id="detail" class="hidden">
+      <p class="crumb"><a href="./">← Все подкасты</a></p>
+      <h1 id="page-title"></h1>
+      <p class="sub" id="page-sub"></p>
+      <div class="tags" id="tags"></div>
+      <div class="people" id="people"></div>
+
+      <div class="actions">
+        <a class="btn btn-dark" id="dl-json" href="./podcast.json" download>Download JSON</a>
+        <a class="btn" id="dl-zip" href="#" target="_blank" rel="noreferrer">Download folder (wav + JSON)</a>
+        <a class="btn" id="yt" href="#" target="_blank" rel="noreferrer">YouTube</a>
+      </div>
+
+      <nav class="tabs">
+        <button class="tab on" data-tab="viewer">Dataset Viewer</button>
+        <button class="tab" data-tab="card">Dataset card</button>
+      </nav>
+
+      <section class="viewer" id="panel-viewer">
+        <div class="viewer-head">
+          <h2>Dataset Viewer</h2>
+          <p>Строка = реплика. Стрелка слева открывает текст. ▶ играет клип.</p>
+        </div>
+        <div class="toolbar">
+          <label class="grow">Search
+            <input id="q" type="search" placeholder="текст, спикер, таймкод">
+          </label>
+          <div class="speaker-filters" id="filters"></div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th class="n">#</th>
+                <th class="audio">audio</th>
+                <th>speaker</th>
+                <th>text</th>
+                <th>start</th>
+                <th>duration</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+        <div class="pager" id="pager"></div>
+      </section>
+
+      <section class="card-panel hidden" id="panel-card">
+        <article class="prose">
+          <h2>О выпуске</h2>
+          <p>Та же идея, что у <a href="https://huggingface.co/datasets/langswap/dialogs-ru-emotional-conversations" target="_blank" rel="noreferrer">langswap/dialogs-ru-emotional-conversations</a>: слушать реплики, видеть текст, скачать JSON и папку wav.</p>
+          <table class="meta">
+            <tbody>
+              <tr><th>Язык</th><td>ky</td></tr>
+              <tr><th>Задачи</th><td>ASR · TTS · speaker diarization</td></tr>
+              <tr><th>Звук</th><td>родной YouTube, 44.1 kHz mono, без MP3 и без denoise</td></tr>
+              <tr><th>Диаризация</th><td>NVIDIA NeMo ClusteringDiarizer</td></tr>
+              <tr><th>Текст</th><td>GigaAM-Multilingual large_ctc</td></tr>
+            </tbody>
+          </table>
+          <p class="note">Аудио принадлежит авторам роликов. Страница — витрина разметки.</p>
+        </article>
+      </section>
+    </section>
   </main>
   <script src="./app.js"></script>
 </body>
