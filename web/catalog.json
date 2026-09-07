@@ -43,6 +43,27 @@
       },
       "num_clips": 509,
       "blurb": "509 реплик · 2 спикера · 2.0 ч"
+    },
+    {
+      "id": "IoBmODqbupY",
+      "title": "Ernis Kyiaz — Гапыр Мадаминов",
+      "youtube_url": "https://youtu.be/IoBmODqbupY",
+      "json": "./podcasts/IoBmODqbupY/podcast.json",
+      "audio_prefix": "./podcasts/IoBmODqbupY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "Гапыр Мадаминов",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "Эрнис Кыязов",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 131,
+      "blurb": "131 реплик · 2 спикера · 1.9 ч"
     }
   ]
 }
