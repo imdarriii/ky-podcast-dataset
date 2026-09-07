@@ -11,21 +11,21 @@
   "channels": 1,
   "bit_depth": 16,
   "num_speakers": 2,
-  "num_clips": 509,
-  "duration_sec": 7316.86,
-  "duration_ms": 7316860,
+  "num_clips": 503,
+  "duration_sec": 7308.69,
+  "duration_ms": 7308690,
   "text_chars": 116823,
   "text_words": 17950,
   "speakers": [
     {
       "speaker": "SPEAKER_00",
-      "num_clips": 256,
-      "duration_sec": 2271.64
+      "num_clips": 255,
+      "duration_sec": 2270.14
     },
     {
       "speaker": "SPEAKER_01",
-      "num_clips": 253,
-      "duration_sec": 5045.22
+      "num_clips": 248,
+      "duration_sec": 5038.55
     }
   ],
   "clips": [
@@ -3890,23 +3890,6 @@
     },
     {
       "id": 228,
-      "audio": "SPEAKER_00/0112_04542.85-04544.35.wav",
-      "filename": "0112_04542.85-04544.35.wav",
-      "speaker": "SPEAKER_00",
-      "start_sec": 4542.85,
-      "end_sec": 4544.35,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 132344,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 229,
       "audio": "SPEAKER_01/0117_04544.35-04572.85.wav",
       "filename": "0117_04544.35-04572.85.wav",
       "speaker": "SPEAKER_01",
@@ -3923,7 +3906,7 @@
       "text_words": 64
     },
     {
-      "id": 230,
+      "id": 229,
       "audio": "SPEAKER_00/0113_04572.85-04586.35.wav",
       "filename": "0113_04572.85-04586.35.wav",
       "speaker": "SPEAKER_00",
@@ -3940,7 +3923,7 @@
       "text_words": 35
     },
     {
-      "id": 231,
+      "id": 230,
       "audio": "SPEAKER_01/0118_04586.35-04613.35.wav",
       "filename": "0118_04586.35-04613.35.wav",
       "speaker": "SPEAKER_01",
@@ -3957,7 +3940,7 @@
       "text_words": 77
     },
     {
-      "id": 232,
+      "id": 231,
       "audio": "SPEAKER_01/0119_04614.10-04635.85.wav",
       "filename": "0119_04614.10-04635.85.wav",
       "speaker": "SPEAKER_01",
@@ -3974,7 +3957,7 @@
       "text_words": 58
     },
     {
-      "id": 233,
+      "id": 232,
       "audio": "SPEAKER_00/0114_04635.85-04658.35.wav",
       "filename": "0114_04635.85-04658.35.wav",
       "speaker": "SPEAKER_00",
@@ -3991,7 +3974,7 @@
       "text_words": 65
     },
     {
-      "id": 234,
+      "id": 233,
       "audio": "SPEAKER_01/0120_04658.35-04692.85.wav",
       "filename": "0120_04658.35-04692.85.wav",
       "speaker": "SPEAKER_01",
@@ -4008,7 +3991,7 @@
       "text_words": 76
     },
     {
-      "id": 235,
+      "id": 234,
       "audio": "SPEAKER_00/0115_04692.85-04697.35.wav",
       "filename": "0115_04692.85-04697.35.wav",
       "speaker": "SPEAKER_00",
@@ -4025,7 +4008,7 @@
       "text_words": 13
     },
     {
-      "id": 236,
+      "id": 235,
       "audio": "SPEAKER_01/0121_04697.35-04708.60.wav",
       "filename": "0121_04697.35-04708.60.wav",
       "speaker": "SPEAKER_01",
@@ -4042,7 +4025,7 @@
       "text_words": 30
     },
     {
-      "id": 237,
+      "id": 236,
       "audio": "SPEAKER_00/0116_04708.60-04739.60.wav",
       "filename": "0116_04708.60-04739.60.wav",
       "speaker": "SPEAKER_00",
@@ -4059,7 +4042,7 @@
       "text_words": 77
     },
     {
-      "id": 238,
+      "id": 237,
       "audio": "SPEAKER_01/0122_04740.43-04743.81.wav",
       "filename": "0122_04740.43-04743.81.wav",
       "speaker": "SPEAKER_01",
@@ -4076,7 +4059,7 @@
       "text_words": 7
     },
     {
-      "id": 239,
+      "id": 238,
       "audio": "SPEAKER_00/0117_04743.81-04746.81.wav",
       "filename": "0117_04743.81-04746.81.wav",
       "speaker": "SPEAKER_00",
@@ -4093,7 +4076,7 @@
       "text_words": 9
     },
     {
-      "id": 240,
+      "id": 239,
       "audio": "SPEAKER_01/0123_04746.81-04762.56.wav",
       "filename": "0123_04746.81-04762.56.wav",
       "speaker": "SPEAKER_01",
@@ -4110,7 +4093,7 @@
       "text_words": 34
     },
     {
-      "id": 241,
+      "id": 240,
       "audio": "SPEAKER_00/0118_04762.56-04764.81.wav",
       "filename": "0118_04762.56-04764.81.wav",
       "speaker": "SPEAKER_00",
@@ -4127,24 +4110,7 @@
       "text_words": 6
     },
     {
-      "id": 242,
-      "audio": "SPEAKER_01/0124_04764.81-04765.85.wav",
-      "filename": "0124_04764.81-04765.85.wav",
-      "speaker": "SPEAKER_01",
-      "start_sec": 4764.81,
-      "end_sec": 4765.85,
-      "duration_sec": 1.04,
-      "duration_ms": 1040,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 92214,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 243,
+      "id": 241,
       "audio": "SPEAKER_00/0119_04766.56-04773.69.wav",
       "filename": "0119_04766.56-04773.69.wav",
       "speaker": "SPEAKER_00",
@@ -4161,7 +4127,7 @@
       "text_words": 21
     },
     {
-      "id": 244,
+      "id": 242,
       "audio": "SPEAKER_00/0120_04774.44-04775.94.wav",
       "filename": "0120_04774.44-04775.94.wav",
       "speaker": "SPEAKER_00",
@@ -4178,7 +4144,7 @@
       "text_words": 2
     },
     {
-      "id": 245,
+      "id": 243,
       "audio": "SPEAKER_01/0125_04775.94-04781.19.wav",
       "filename": "0125_04775.94-04781.19.wav",
       "speaker": "SPEAKER_01",
@@ -4195,7 +4161,7 @@
       "text_words": 17
     },
     {
-      "id": 246,
+      "id": 244,
       "audio": "SPEAKER_01/0126_04781.94-04788.69.wav",
       "filename": "0126_04781.94-04788.69.wav",
       "speaker": "SPEAKER_01",
@@ -4212,7 +4178,7 @@
       "text_words": 16
     },
     {
-      "id": 247,
+      "id": 245,
       "audio": "SPEAKER_00/0121_04788.69-04790.19.wav",
       "filename": "0121_04788.69-04790.19.wav",
       "speaker": "SPEAKER_00",
@@ -4229,7 +4195,7 @@
       "text_words": 4
     },
     {
-      "id": 248,
+      "id": 246,
       "audio": "SPEAKER_01/0127_04790.19-04801.44.wav",
       "filename": "0127_04790.19-04801.44.wav",
       "speaker": "SPEAKER_01",
@@ -4246,7 +4212,7 @@
       "text_words": 22
     },
     {
-      "id": 249,
+      "id": 247,
       "audio": "SPEAKER_00/0122_04801.44-04804.44.wav",
       "filename": "0122_04801.44-04804.44.wav",
       "speaker": "SPEAKER_00",
@@ -4263,7 +4229,7 @@
       "text_words": 10
     },
     {
-      "id": 250,
+      "id": 248,
       "audio": "SPEAKER_01/0128_04804.44-04807.44.wav",
       "filename": "0128_04804.44-04807.44.wav",
       "speaker": "SPEAKER_01",
@@ -4280,7 +4246,7 @@
       "text_words": 6
     },
     {
-      "id": 251,
+      "id": 249,
       "audio": "SPEAKER_00/0123_04807.44-04814.94.wav",
       "filename": "0123_04807.44-04814.94.wav",
       "speaker": "SPEAKER_00",
@@ -4297,7 +4263,7 @@
       "text_words": 14
     },
     {
-      "id": 252,
+      "id": 250,
       "audio": "SPEAKER_01/0129_04814.94-04817.19.wav",
       "filename": "0129_04814.94-04817.19.wav",
       "speaker": "SPEAKER_01",
@@ -4314,7 +4280,7 @@
       "text_words": 6
     },
     {
-      "id": 253,
+      "id": 251,
       "audio": "SPEAKER_00/0124_04817.19-04835.94.wav",
       "filename": "0124_04817.19-04835.94.wav",
       "speaker": "SPEAKER_00",
@@ -4331,7 +4297,7 @@
       "text_words": 37
     },
     {
-      "id": 254,
+      "id": 252,
       "audio": "SPEAKER_01/0130_04835.94-04838.94.wav",
       "filename": "0130_04835.94-04838.94.wav",
       "speaker": "SPEAKER_01",
@@ -4348,7 +4314,7 @@
       "text_words": 6
     },
     {
-      "id": 255,
+      "id": 253,
       "audio": "SPEAKER_01/0131_04839.69-04858.44.wav",
       "filename": "0131_04839.69-04858.44.wav",
       "speaker": "SPEAKER_01",
@@ -4365,7 +4331,7 @@
       "text_words": 54
     },
     {
-      "id": 256,
+      "id": 254,
       "audio": "SPEAKER_00/0125_04858.44-04877.19.wav",
       "filename": "0125_04858.44-04877.19.wav",
       "speaker": "SPEAKER_00",
@@ -4382,24 +4348,7 @@
       "text_words": 39
     },
     {
-      "id": 257,
-      "audio": "SPEAKER_01/0132_04877.19-04878.69.wav",
-      "filename": "0132_04877.19-04878.69.wav",
-      "speaker": "SPEAKER_01",
-      "start_sec": 4877.19,
-      "end_sec": 4878.69,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 132344,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 258,
+      "id": 255,
       "audio": "SPEAKER_00/0126_04878.69-04885.44.wav",
       "filename": "0126_04878.69-04885.44.wav",
       "speaker": "SPEAKER_00",
@@ -4416,7 +4365,7 @@
       "text_words": 17
     },
     {
-      "id": 259,
+      "id": 256,
       "audio": "SPEAKER_01/0133_04885.44-04901.19.wav",
       "filename": "0133_04885.44-04901.19.wav",
       "speaker": "SPEAKER_01",
@@ -4433,7 +4382,7 @@
       "text_words": 31
     },
     {
-      "id": 260,
+      "id": 257,
       "audio": "SPEAKER_00/0127_04901.19-04903.44.wav",
       "filename": "0127_04901.19-04903.44.wav",
       "speaker": "SPEAKER_00",
@@ -4450,7 +4399,7 @@
       "text_words": 7
     },
     {
-      "id": 261,
+      "id": 258,
       "audio": "SPEAKER_01/0134_04903.44-04916.94.wav",
       "filename": "0134_04903.44-04916.94.wav",
       "speaker": "SPEAKER_01",
@@ -4467,7 +4416,7 @@
       "text_words": 39
     },
     {
-      "id": 262,
+      "id": 259,
       "audio": "SPEAKER_00/0128_04916.94-04918.44.wav",
       "filename": "0128_04916.94-04918.44.wav",
       "speaker": "SPEAKER_00",
@@ -4484,7 +4433,7 @@
       "text_words": 3
     },
     {
-      "id": 263,
+      "id": 260,
       "audio": "SPEAKER_00/0129_04919.19-04920.69.wav",
       "filename": "0129_04919.19-04920.69.wav",
       "speaker": "SPEAKER_00",
@@ -4501,7 +4450,7 @@
       "text_words": 3
     },
     {
-      "id": 264,
+      "id": 261,
       "audio": "SPEAKER_01/0135_04920.69-04937.94.wav",
       "filename": "0135_04920.69-04937.94.wav",
       "speaker": "SPEAKER_01",
@@ -4518,7 +4467,7 @@
       "text_words": 33
     },
     {
-      "id": 265,
+      "id": 262,
       "audio": "SPEAKER_00/0130_04937.94-04940.19.wav",
       "filename": "0130_04937.94-04940.19.wav",
       "speaker": "SPEAKER_00",
@@ -4535,7 +4484,7 @@
       "text_words": 7
     },
     {
-      "id": 266,
+      "id": 263,
       "audio": "SPEAKER_01/0136_04940.19-04941.58.wav",
       "filename": "0136_04940.19-04941.58.wav",
       "speaker": "SPEAKER_01",
@@ -4552,7 +4501,7 @@
       "text_words": 4
     },
     {
-      "id": 267,
+      "id": 264,
       "audio": "SPEAKER_00/0131_04943.19-04945.06.wav",
       "filename": "0131_04943.19-04945.06.wav",
       "speaker": "SPEAKER_00",
@@ -4569,7 +4518,7 @@
       "text_words": 4
     },
     {
-      "id": 268,
+      "id": 265,
       "audio": "SPEAKER_01/0137_04946.56-04948.06.wav",
       "filename": "0137_04946.56-04948.06.wav",
       "speaker": "SPEAKER_01",
@@ -4586,7 +4535,7 @@
       "text_words": 4
     },
     {
-      "id": 269,
+      "id": 266,
       "audio": "SPEAKER_00/0132_04948.06-04951.06.wav",
       "filename": "0132_04948.06-04951.06.wav",
       "speaker": "SPEAKER_00",
@@ -4603,7 +4552,7 @@
       "text_words": 6
     },
     {
-      "id": 270,
+      "id": 267,
       "audio": "SPEAKER_01/0138_04951.06-04953.31.wav",
       "filename": "0138_04951.06-04953.31.wav",
       "speaker": "SPEAKER_01",
@@ -4620,7 +4569,7 @@
       "text_words": 11
     },
     {
-      "id": 271,
+      "id": 268,
       "audio": "SPEAKER_00/0133_04953.31-04961.56.wav",
       "filename": "0133_04953.31-04961.56.wav",
       "speaker": "SPEAKER_00",
@@ -4637,7 +4586,7 @@
       "text_words": 16
     },
     {
-      "id": 272,
+      "id": 269,
       "audio": "SPEAKER_01/0139_04961.56-04984.81.wav",
       "filename": "0139_04961.56-04984.81.wav",
       "speaker": "SPEAKER_01",
@@ -4654,7 +4603,7 @@
       "text_words": 68
     },
     {
-      "id": 273,
+      "id": 270,
       "audio": "SPEAKER_00/0134_04984.81-04989.31.wav",
       "filename": "0134_04984.81-04989.31.wav",
       "speaker": "SPEAKER_00",
@@ -4671,7 +4620,7 @@
       "text_words": 10
     },
     {
-      "id": 274,
+      "id": 271,
       "audio": "SPEAKER_01/0140_04989.31-04993.06.wav",
       "filename": "0140_04989.31-04993.06.wav",
       "speaker": "SPEAKER_01",
@@ -4688,7 +4637,7 @@
       "text_words": 11
     },
     {
-      "id": 275,
+      "id": 272,
       "audio": "SPEAKER_00/0135_04993.06-05004.31.wav",
       "filename": "0135_04993.06-05004.31.wav",
       "speaker": "SPEAKER_00",
@@ -4705,7 +4654,7 @@
       "text_words": 33
     },
     {
-      "id": 276,
+      "id": 273,
       "audio": "SPEAKER_01/0141_05004.31-05053.81.wav",
       "filename": "0141_05004.31-05053.81.wav",
       "speaker": "SPEAKER_01",
@@ -4722,7 +4671,7 @@
       "text_words": 125
     },
     {
-      "id": 277,
+      "id": 274,
       "audio": "SPEAKER_00/0136_05053.81-05056.06.wav",
       "filename": "0136_05053.81-05056.06.wav",
       "speaker": "SPEAKER_00",
@@ -4739,7 +4688,7 @@
       "text_words": 7
     },
     {
-      "id": 278,
+      "id": 275,
       "audio": "SPEAKER_01/0142_05056.06-05057.56.wav",
       "filename": "0142_05056.06-05057.56.wav",
       "speaker": "SPEAKER_01",
@@ -4756,7 +4705,7 @@
       "text_words": 3
     },
     {
-      "id": 279,
+      "id": 276,
       "audio": "SPEAKER_00/0137_05057.56-05071.95.wav",
       "filename": "0137_05057.56-05071.95.wav",
       "speaker": "SPEAKER_00",
@@ -4773,7 +4722,7 @@
       "text_words": 33
     },
     {
-      "id": 280,
+      "id": 277,
       "audio": "SPEAKER_01/0143_05071.95-05073.45.wav",
       "filename": "0143_05071.95-05073.45.wav",
       "speaker": "SPEAKER_01",
@@ -4790,7 +4739,7 @@
       "text_words": 4
     },
     {
-      "id": 281,
+      "id": 278,
       "audio": "SPEAKER_00/0138_05073.45-05075.70.wav",
       "filename": "0138_05073.45-05075.70.wav",
       "speaker": "SPEAKER_00",
@@ -4807,7 +4756,7 @@
       "text_words": 5
     },
     {
-      "id": 282,
+      "id": 279,
       "audio": "SPEAKER_00/0139_05076.45-05080.95.wav",
       "filename": "0139_05076.45-05080.95.wav",
       "speaker": "SPEAKER_00",
@@ -4824,7 +4773,7 @@
       "text_words": 12
     },
     {
-      "id": 283,
+      "id": 280,
       "audio": "SPEAKER_00/0140_05081.70-05083.95.wav",
       "filename": "0140_05081.70-05083.95.wav",
       "speaker": "SPEAKER_00",
@@ -4841,7 +4790,7 @@
       "text_words": 5
     },
     {
-      "id": 284,
+      "id": 281,
       "audio": "SPEAKER_00/0141_05084.70-05089.20.wav",
       "filename": "0141_05084.70-05089.20.wav",
       "speaker": "SPEAKER_00",
@@ -4858,7 +4807,7 @@
       "text_words": 11
     },
     {
-      "id": 285,
+      "id": 282,
       "audio": "SPEAKER_00/0142_05090.39-05108.77.wav",
       "filename": "0142_05090.39-05108.77.wav",
       "speaker": "SPEAKER_00",
@@ -4875,7 +4824,7 @@
       "text_words": 46
     },
     {
-      "id": 286,
+      "id": 283,
       "audio": "SPEAKER_01/0144_05108.77-05143.27.wav",
       "filename": "0144_05108.77-05143.27.wav",
       "speaker": "SPEAKER_01",
@@ -4892,7 +4841,7 @@
       "text_words": 87
     },
     {
-      "id": 287,
+      "id": 284,
       "audio": "SPEAKER_00/0143_05143.27-05147.77.wav",
       "filename": "0143_05143.27-05147.77.wav",
       "speaker": "SPEAKER_00",
@@ -4909,7 +4858,7 @@
       "text_words": 12
     },
     {
-      "id": 288,
+      "id": 285,
       "audio": "SPEAKER_01/0145_05147.77-05164.27.wav",
       "filename": "0145_05147.77-05164.27.wav",
       "speaker": "SPEAKER_01",
@@ -4926,7 +4875,7 @@
       "text_words": 46
     },
     {
-      "id": 289,
+      "id": 286,
       "audio": "SPEAKER_00/0144_05164.27-05177.77.wav",
       "filename": "0144_05164.27-05177.77.wav",
       "speaker": "SPEAKER_00",
@@ -4943,7 +4892,7 @@
       "text_words": 31
     },
     {
-      "id": 290,
+      "id": 287,
       "audio": "SPEAKER_01/0146_05177.77-05191.27.wav",
       "filename": "0146_05177.77-05191.27.wav",
       "speaker": "SPEAKER_01",
@@ -4960,7 +4909,7 @@
       "text_words": 31
     },
     {
-      "id": 291,
+      "id": 288,
       "audio": "SPEAKER_01/0147_05192.02-05203.31.wav",
       "filename": "0147_05192.02-05203.31.wav",
       "speaker": "SPEAKER_01",
@@ -4977,7 +4926,7 @@
       "text_words": 23
     },
     {
-      "id": 292,
+      "id": 289,
       "audio": "SPEAKER_00/0145_05203.31-05204.81.wav",
       "filename": "0145_05203.31-05204.81.wav",
       "speaker": "SPEAKER_00",
@@ -4994,7 +4943,7 @@
       "text_words": 2
     },
     {
-      "id": 293,
+      "id": 290,
       "audio": "SPEAKER_01/0148_05204.81-05222.81.wav",
       "filename": "0148_05204.81-05222.81.wav",
       "speaker": "SPEAKER_01",
@@ -5011,7 +4960,7 @@
       "text_words": 46
     },
     {
-      "id": 294,
+      "id": 291,
       "audio": "SPEAKER_00/0146_05222.81-05230.31.wav",
       "filename": "0146_05222.81-05230.31.wav",
       "speaker": "SPEAKER_00",
@@ -5028,7 +4977,7 @@
       "text_words": 17
     },
     {
-      "id": 295,
+      "id": 292,
       "audio": "SPEAKER_01/0149_05230.31-05244.56.wav",
       "filename": "0149_05230.31-05244.56.wav",
       "speaker": "SPEAKER_01",
@@ -5045,7 +4994,7 @@
       "text_words": 34
     },
     {
-      "id": 296,
+      "id": 293,
       "audio": "SPEAKER_00/0147_05244.56-05253.56.wav",
       "filename": "0147_05244.56-05253.56.wav",
       "speaker": "SPEAKER_00",
@@ -5062,7 +5011,7 @@
       "text_words": 16
     },
     {
-      "id": 297,
+      "id": 294,
       "audio": "SPEAKER_00/0148_05254.91-05256.03.wav",
       "filename": "0148_05254.91-05256.03.wav",
       "speaker": "SPEAKER_00",
@@ -5079,7 +5028,7 @@
       "text_words": 1
     },
     {
-      "id": 298,
+      "id": 295,
       "audio": "SPEAKER_01/0150_05256.03-05258.28.wav",
       "filename": "0150_05256.03-05258.28.wav",
       "speaker": "SPEAKER_01",
@@ -5096,7 +5045,7 @@
       "text_words": 1
     },
     {
-      "id": 299,
+      "id": 296,
       "audio": "SPEAKER_00/0149_05258.28-05263.53.wav",
       "filename": "0149_05258.28-05263.53.wav",
       "speaker": "SPEAKER_00",
@@ -5113,7 +5062,7 @@
       "text_words": 16
     },
     {
-      "id": 300,
+      "id": 297,
       "audio": "SPEAKER_01/0151_05263.53-05280.78.wav",
       "filename": "0151_05263.53-05280.78.wav",
       "speaker": "SPEAKER_01",
@@ -5130,7 +5079,7 @@
       "text_words": 38
     },
     {
-      "id": 301,
+      "id": 298,
       "audio": "SPEAKER_00/0150_05280.78-05285.39.wav",
       "filename": "0150_05280.78-05285.39.wav",
       "speaker": "SPEAKER_00",
@@ -5147,24 +5096,7 @@
       "text_words": 14
     },
     {
-      "id": 302,
-      "audio": "SPEAKER_01/0152_05286.97-05288.10.wav",
-      "filename": "0152_05286.97-05288.10.wav",
-      "speaker": "SPEAKER_01",
-      "start_sec": 5286.97,
-      "end_sec": 5288.1,
-      "duration_sec": 1.13,
-      "duration_ms": 1130,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 99268,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 303,
+      "id": 299,
       "audio": "SPEAKER_00/0151_05288.10-05292.60.wav",
       "filename": "0151_05288.10-05292.60.wav",
       "speaker": "SPEAKER_00",
@@ -5181,7 +5113,7 @@
       "text_words": 12
     },
     {
-      "id": 304,
+      "id": 300,
       "audio": "SPEAKER_01/0153_05292.60-05295.60.wav",
       "filename": "0153_05292.60-05295.60.wav",
       "speaker": "SPEAKER_01",
@@ -5198,7 +5130,7 @@
       "text_words": 6
     },
     {
-      "id": 305,
+      "id": 301,
       "audio": "SPEAKER_00/0152_05295.60-05301.60.wav",
       "filename": "0152_05295.60-05301.60.wav",
       "speaker": "SPEAKER_00",
@@ -5215,7 +5147,7 @@
       "text_words": 14
     },
     {
-      "id": 306,
+      "id": 302,
       "audio": "SPEAKER_01/0154_05301.60-05308.89.wav",
       "filename": "0154_05301.60-05308.89.wav",
       "speaker": "SPEAKER_01",
@@ -5232,7 +5164,7 @@
       "text_words": 23
     },
     {
-      "id": 307,
+      "id": 303,
       "audio": "SPEAKER_00/0153_05309.63-05313.76.wav",
       "filename": "0153_05309.63-05313.76.wav",
       "speaker": "SPEAKER_00",
@@ -5249,7 +5181,7 @@
       "text_words": 11
     },
     {
-      "id": 308,
+      "id": 304,
       "audio": "SPEAKER_01/0155_05313.76-05315.26.wav",
       "filename": "0155_05313.76-05315.26.wav",
       "speaker": "SPEAKER_01",
@@ -5266,7 +5198,7 @@
       "text_words": 5
     },
     {
-      "id": 309,
+      "id": 305,
       "audio": "SPEAKER_00/0154_05315.26-05316.76.wav",
       "filename": "0154_05315.26-05316.76.wav",
       "speaker": "SPEAKER_00",
@@ -5283,7 +5215,7 @@
       "text_words": 4
     },
     {
-      "id": 310,
+      "id": 306,
       "audio": "SPEAKER_00/0155_05317.51-05328.76.wav",
       "filename": "0155_05317.51-05328.76.wav",
       "speaker": "SPEAKER_00",
@@ -5300,7 +5232,7 @@
       "text_words": 32
     },
     {
-      "id": 311,
+      "id": 307,
       "audio": "SPEAKER_00/0156_05329.51-05331.01.wav",
       "filename": "0156_05329.51-05331.01.wav",
       "speaker": "SPEAKER_00",
@@ -5317,7 +5249,7 @@
       "text_words": 1
     },
     {
-      "id": 312,
+      "id": 308,
       "audio": "SPEAKER_01/0156_05331.01-05333.26.wav",
       "filename": "0156_05331.01-05333.26.wav",
       "speaker": "SPEAKER_01",
@@ -5334,7 +5266,7 @@
       "text_words": 7
     },
     {
-      "id": 313,
+      "id": 309,
       "audio": "SPEAKER_00/0157_05333.26-05342.26.wav",
       "filename": "0157_05333.26-05342.26.wav",
       "speaker": "SPEAKER_00",
@@ -5351,7 +5283,7 @@
       "text_words": 23
     },
     {
-      "id": 314,
+      "id": 310,
       "audio": "SPEAKER_01/0157_05342.26-05344.51.wav",
       "filename": "0157_05342.26-05344.51.wav",
       "speaker": "SPEAKER_01",
@@ -5368,7 +5300,7 @@
       "text_words": 5
     },
     {
-      "id": 315,
+      "id": 311,
       "audio": "SPEAKER_00/0158_05344.51-05346.01.wav",
       "filename": "0158_05344.51-05346.01.wav",
       "speaker": "SPEAKER_00",
@@ -5385,7 +5317,7 @@
       "text_words": 7
     },
     {
-      "id": 316,
+      "id": 312,
       "audio": "SPEAKER_01/0158_05346.01-05351.26.wav",
       "filename": "0158_05346.01-05351.26.wav",
       "speaker": "SPEAKER_01",
@@ -5402,7 +5334,7 @@
       "text_words": 15
     },
     {
-      "id": 317,
+      "id": 313,
       "audio": "SPEAKER_00/0159_05351.26-05355.76.wav",
       "filename": "0159_05351.26-05355.76.wav",
       "speaker": "SPEAKER_00",
@@ -5419,7 +5351,7 @@
       "text_words": 15
     },
     {
-      "id": 318,
+      "id": 314,
       "audio": "SPEAKER_01/0159_05355.76-05371.51.wav",
       "filename": "0159_05355.76-05371.51.wav",
       "speaker": "SPEAKER_01",
@@ -5436,7 +5368,7 @@
       "text_words": 41
     },
     {
-      "id": 319,
+      "id": 315,
       "audio": "SPEAKER_01/0160_05372.26-05374.51.wav",
       "filename": "0160_05372.26-05374.51.wav",
       "speaker": "SPEAKER_01",
@@ -5453,7 +5385,7 @@
       "text_words": 5
     },
     {
-      "id": 320,
+      "id": 316,
       "audio": "SPEAKER_00/0160_05374.51-05388.76.wav",
       "filename": "0160_05374.51-05388.76.wav",
       "speaker": "SPEAKER_00",
@@ -5470,7 +5402,7 @@
       "text_words": 36
     },
     {
-      "id": 321,
+      "id": 317,
       "audio": "SPEAKER_01/0161_05388.76-05391.01.wav",
       "filename": "0161_05388.76-05391.01.wav",
       "speaker": "SPEAKER_01",
@@ -5487,7 +5419,7 @@
       "text_words": 9
     },
     {
-      "id": 322,
+      "id": 318,
       "audio": "SPEAKER_00/0161_05391.01-05420.26.wav",
       "filename": "0161_05391.01-05420.26.wav",
       "speaker": "SPEAKER_00",
@@ -5504,7 +5436,7 @@
       "text_words": 91
     },
     {
-      "id": 323,
+      "id": 319,
       "audio": "SPEAKER_01/0162_05420.26-05467.52.wav",
       "filename": "0162_05420.26-05467.52.wav",
       "speaker": "SPEAKER_01",
@@ -5521,7 +5453,7 @@
       "text_words": 117
     },
     {
-      "id": 324,
+      "id": 320,
       "audio": "SPEAKER_00/0162_05467.52-05482.52.wav",
       "filename": "0162_05467.52-05482.52.wav",
       "speaker": "SPEAKER_00",
@@ -5538,7 +5470,7 @@
       "text_words": 33
     },
     {
-      "id": 325,
+      "id": 321,
       "audio": "SPEAKER_01/0163_05482.52-05522.27.wav",
       "filename": "0163_05482.52-05522.27.wav",
       "speaker": "SPEAKER_01",
@@ -5555,7 +5487,7 @@
       "text_words": 104
     },
     {
-      "id": 326,
+      "id": 322,
       "audio": "SPEAKER_00/0163_05522.27-05526.02.wav",
       "filename": "0163_05522.27-05526.02.wav",
       "speaker": "SPEAKER_00",
@@ -5572,7 +5504,7 @@
       "text_words": 9
     },
     {
-      "id": 327,
+      "id": 323,
       "audio": "SPEAKER_00/0164_05526.77-05528.27.wav",
       "filename": "0164_05526.77-05528.27.wav",
       "speaker": "SPEAKER_00",
@@ -5589,7 +5521,7 @@
       "text_words": 3
     },
     {
-      "id": 328,
+      "id": 324,
       "audio": "SPEAKER_01/0164_05528.27-05529.77.wav",
       "filename": "0164_05528.27-05529.77.wav",
       "speaker": "SPEAKER_01",
@@ -5606,7 +5538,7 @@
       "text_words": 5
     },
     {
-      "id": 329,
+      "id": 325,
       "audio": "SPEAKER_00/0165_05529.77-05540.27.wav",
       "filename": "0165_05529.77-05540.27.wav",
       "speaker": "SPEAKER_00",
@@ -5623,7 +5555,7 @@
       "text_words": 30
     },
     {
-      "id": 330,
+      "id": 326,
       "audio": "SPEAKER_01/0165_05540.27-05543.27.wav",
       "filename": "0165_05540.27-05543.27.wav",
       "speaker": "SPEAKER_01",
@@ -5640,7 +5572,7 @@
       "text_words": 8
     },
     {
-      "id": 331,
+      "id": 327,
       "audio": "SPEAKER_00/0166_05543.27-05551.52.wav",
       "filename": "0166_05543.27-05551.52.wav",
       "speaker": "SPEAKER_00",
@@ -5657,7 +5589,7 @@
       "text_words": 22
     },
     {
-      "id": 332,
+      "id": 328,
       "audio": "SPEAKER_00/0167_05552.27-05553.77.wav",
       "filename": "0167_05552.27-05553.77.wav",
       "speaker": "SPEAKER_00",
@@ -5674,7 +5606,7 @@
       "text_words": 2
     },
     {
-      "id": 333,
+      "id": 329,
       "audio": "SPEAKER_01/0166_05553.77-05559.02.wav",
       "filename": "0166_05553.77-05559.02.wav",
       "speaker": "SPEAKER_01",
@@ -5691,7 +5623,7 @@
       "text_words": 10
     },
     {
-      "id": 334,
+      "id": 330,
       "audio": "SPEAKER_00/0168_05559.02-05560.52.wav",
       "filename": "0168_05559.02-05560.52.wav",
       "speaker": "SPEAKER_00",
@@ -5708,7 +5640,7 @@
       "text_words": 5
     },
     {
-      "id": 335,
+      "id": 331,
       "audio": "SPEAKER_01/0167_05560.52-05566.52.wav",
       "filename": "0167_05560.52-05566.52.wav",
       "speaker": "SPEAKER_01",
@@ -5725,7 +5657,7 @@
       "text_words": 10
     },
     {
-      "id": 336,
+      "id": 332,
       "audio": "SPEAKER_00/0169_05566.52-05568.02.wav",
       "filename": "0169_05566.52-05568.02.wav",
       "speaker": "SPEAKER_00",
@@ -5742,7 +5674,7 @@
       "text_words": 4
     },
     {
-      "id": 337,
+      "id": 333,
       "audio": "SPEAKER_01/0168_05568.02-05611.52.wav",
       "filename": "0168_05568.02-05611.52.wav",
       "speaker": "SPEAKER_01",
@@ -5759,7 +5691,7 @@
       "text_words": 106
     },
     {
-      "id": 338,
+      "id": 334,
       "audio": "SPEAKER_00/0170_05611.52-05619.02.wav",
       "filename": "0170_05611.52-05619.02.wav",
       "speaker": "SPEAKER_00",
@@ -5776,7 +5708,7 @@
       "text_words": 16
     },
     {
-      "id": 339,
+      "id": 335,
       "audio": "SPEAKER_01/0169_05619.02-05628.77.wav",
       "filename": "0169_05619.02-05628.77.wav",
       "speaker": "SPEAKER_01",
@@ -5793,7 +5725,7 @@
       "text_words": 21
     },
     {
-      "id": 340,
+      "id": 336,
       "audio": "SPEAKER_00/0171_05628.77-05631.77.wav",
       "filename": "0171_05628.77-05631.77.wav",
       "speaker": "SPEAKER_00",
@@ -5810,7 +5742,7 @@
       "text_words": 6
     },
     {
-      "id": 341,
+      "id": 337,
       "audio": "SPEAKER_01/0170_05631.77-05673.02.wav",
       "filename": "0170_05631.77-05673.02.wav",
       "speaker": "SPEAKER_01",
@@ -5827,7 +5759,7 @@
       "text_words": 119
     },
     {
-      "id": 342,
+      "id": 338,
       "audio": "SPEAKER_00/0172_05673.02-05697.77.wav",
       "filename": "0172_05673.02-05697.77.wav",
       "speaker": "SPEAKER_00",
@@ -5844,7 +5776,7 @@
       "text_words": 69
     },
     {
-      "id": 343,
+      "id": 339,
       "audio": "SPEAKER_01/0171_05697.77-05703.77.wav",
       "filename": "0171_05697.77-05703.77.wav",
       "speaker": "SPEAKER_01",
@@ -5861,7 +5793,7 @@
       "text_words": 19
     },
     {
-      "id": 344,
+      "id": 340,
       "audio": "SPEAKER_00/0173_05703.77-05713.52.wav",
       "filename": "0173_05703.77-05713.52.wav",
       "speaker": "SPEAKER_00",
@@ -5878,7 +5810,7 @@
       "text_words": 26
     },
     {
-      "id": 345,
+      "id": 341,
       "audio": "SPEAKER_01/0172_05713.52-05717.27.wav",
       "filename": "0172_05713.52-05717.27.wav",
       "speaker": "SPEAKER_01",
@@ -5895,7 +5827,7 @@
       "text_words": 12
     },
     {
-      "id": 346,
+      "id": 342,
       "audio": "SPEAKER_01/0173_05718.02-05721.77.wav",
       "filename": "0173_05718.02-05721.77.wav",
       "speaker": "SPEAKER_01",
@@ -5912,7 +5844,7 @@
       "text_words": 10
     },
     {
-      "id": 347,
+      "id": 343,
       "audio": "SPEAKER_01/0174_05722.52-05728.52.wav",
       "filename": "0174_05722.52-05728.52.wav",
       "speaker": "SPEAKER_01",
@@ -5929,7 +5861,7 @@
       "text_words": 14
     },
     {
-      "id": 348,
+      "id": 344,
       "audio": "SPEAKER_00/0174_05728.52-05731.52.wav",
       "filename": "0174_05728.52-05731.52.wav",
       "speaker": "SPEAKER_00",
@@ -5946,7 +5878,7 @@
       "text_words": 6
     },
     {
-      "id": 349,
+      "id": 345,
       "audio": "SPEAKER_01/0175_05731.52-05733.77.wav",
       "filename": "0175_05731.52-05733.77.wav",
       "speaker": "SPEAKER_01",
@@ -5963,7 +5895,7 @@
       "text_words": 5
     },
     {
-      "id": 350,
+      "id": 346,
       "audio": "SPEAKER_00/0175_05733.77-05737.52.wav",
       "filename": "0175_05733.77-05737.52.wav",
       "speaker": "SPEAKER_00",
@@ -5980,7 +5912,7 @@
       "text_words": 10
     },
     {
-      "id": 351,
+      "id": 347,
       "audio": "SPEAKER_01/0176_05737.52-05739.77.wav",
       "filename": "0176_05737.52-05739.77.wav",
       "speaker": "SPEAKER_01",
@@ -5997,7 +5929,7 @@
       "text_words": 5
     },
     {
-      "id": 352,
+      "id": 348,
       "audio": "SPEAKER_00/0176_05739.77-05745.77.wav",
       "filename": "0176_05739.77-05745.77.wav",
       "speaker": "SPEAKER_00",
@@ -6014,7 +5946,7 @@
       "text_words": 17
     },
     {
-      "id": 353,
+      "id": 349,
       "audio": "SPEAKER_01/0177_05745.77-05749.52.wav",
       "filename": "0177_05745.77-05749.52.wav",
       "speaker": "SPEAKER_01",
@@ -6031,7 +5963,7 @@
       "text_words": 10
     },
     {
-      "id": 354,
+      "id": 350,
       "audio": "SPEAKER_00/0177_05749.52-05754.02.wav",
       "filename": "0177_05749.52-05754.02.wav",
       "speaker": "SPEAKER_00",
@@ -6048,7 +5980,7 @@
       "text_words": 13
     },
     {
-      "id": 355,
+      "id": 351,
       "audio": "SPEAKER_01/0178_05754.02-05757.02.wav",
       "filename": "0178_05754.02-05757.02.wav",
       "speaker": "SPEAKER_01",
@@ -6065,7 +5997,7 @@
       "text_words": 7
     },
     {
-      "id": 356,
+      "id": 352,
       "audio": "SPEAKER_01/0179_05757.77-05776.43.wav",
       "filename": "0179_05757.77-05776.43.wav",
       "speaker": "SPEAKER_01",
@@ -6082,7 +6014,7 @@
       "text_words": 38
     },
     {
-      "id": 357,
+      "id": 353,
       "audio": "SPEAKER_00/0178_05777.03-05779.65.wav",
       "filename": "0178_05777.03-05779.65.wav",
       "speaker": "SPEAKER_00",
@@ -6099,7 +6031,7 @@
       "text_words": 4
     },
     {
-      "id": 358,
+      "id": 354,
       "audio": "SPEAKER_00/0179_05780.40-05784.90.wav",
       "filename": "0179_05780.40-05784.90.wav",
       "speaker": "SPEAKER_00",
@@ -6116,7 +6048,7 @@
       "text_words": 9
     },
     {
-      "id": 359,
+      "id": 355,
       "audio": "SPEAKER_01/0180_05784.90-05796.90.wav",
       "filename": "0180_05784.90-05796.90.wav",
       "speaker": "SPEAKER_01",
@@ -6133,7 +6065,7 @@
       "text_words": 35
     },
     {
-      "id": 360,
+      "id": 356,
       "audio": "SPEAKER_00/0180_05796.90-05799.90.wav",
       "filename": "0180_05796.90-05799.90.wav",
       "speaker": "SPEAKER_00",
@@ -6150,7 +6082,7 @@
       "text_words": 5
     },
     {
-      "id": 361,
+      "id": 357,
       "audio": "SPEAKER_01/0181_05799.90-05839.11.wav",
       "filename": "0181_05799.90-05839.11.wav",
       "speaker": "SPEAKER_01",
@@ -6167,7 +6099,7 @@
       "text_words": 93
     },
     {
-      "id": 362,
+      "id": 358,
       "audio": "SPEAKER_01/0182_05839.86-05863.38.wav",
       "filename": "0182_05839.86-05863.38.wav",
       "speaker": "SPEAKER_01",
@@ -6184,7 +6116,7 @@
       "text_words": 57
     },
     {
-      "id": 363,
+      "id": 359,
       "audio": "SPEAKER_00/0181_05863.38-05882.12.wav",
       "filename": "0181_05863.38-05882.12.wav",
       "speaker": "SPEAKER_00",
@@ -6201,7 +6133,7 @@
       "text_words": 49
     },
     {
-      "id": 364,
+      "id": 360,
       "audio": "SPEAKER_01/0183_05882.12-05886.62.wav",
       "filename": "0183_05882.12-05886.62.wav",
       "speaker": "SPEAKER_01",
@@ -6218,7 +6150,7 @@
       "text_words": 14
     },
     {
-      "id": 365,
+      "id": 361,
       "audio": "SPEAKER_00/0182_05886.62-05888.12.wav",
       "filename": "0182_05886.62-05888.12.wav",
       "speaker": "SPEAKER_00",
@@ -6235,7 +6167,7 @@
       "text_words": 5
     },
     {
-      "id": 366,
+      "id": 362,
       "audio": "SPEAKER_01/0184_05888.12-05898.62.wav",
       "filename": "0184_05888.12-05898.62.wav",
       "speaker": "SPEAKER_01",
@@ -6252,7 +6184,7 @@
       "text_words": 28
     },
     {
-      "id": 367,
+      "id": 363,
       "audio": "SPEAKER_00/0183_05898.62-05900.88.wav",
       "filename": "0183_05898.62-05900.88.wav",
       "speaker": "SPEAKER_00",
@@ -6269,7 +6201,7 @@
       "text_words": 7
     },
     {
-      "id": 368,
+      "id": 364,
       "audio": "SPEAKER_01/0185_05900.88-05902.38.wav",
       "filename": "0185_05900.88-05902.38.wav",
       "speaker": "SPEAKER_01",
@@ -6286,7 +6218,7 @@
       "text_words": 3
     },
     {
-      "id": 369,
+      "id": 365,
       "audio": "SPEAKER_00/0184_05902.38-05906.12.wav",
       "filename": "0184_05902.38-05906.12.wav",
       "speaker": "SPEAKER_00",
@@ -6303,7 +6235,7 @@
       "text_words": 4
     },
     {
-      "id": 370,
+      "id": 366,
       "audio": "SPEAKER_01/0186_05906.12-05909.88.wav",
       "filename": "0186_05906.12-05909.88.wav",
       "speaker": "SPEAKER_01",
@@ -6320,7 +6252,7 @@
       "text_words": 11
     },
     {
-      "id": 371,
+      "id": 367,
       "audio": "SPEAKER_00/0185_05909.88-05911.38.wav",
       "filename": "0185_05909.88-05911.38.wav",
       "speaker": "SPEAKER_00",
@@ -6337,7 +6269,7 @@
       "text_words": 1
     },
     {
-      "id": 372,
+      "id": 368,
       "audio": "SPEAKER_01/0187_05911.38-05936.88.wav",
       "filename": "0187_05911.38-05936.88.wav",
       "speaker": "SPEAKER_01",
@@ -6354,7 +6286,7 @@
       "text_words": 70
     },
     {
-      "id": 373,
+      "id": 369,
       "audio": "SPEAKER_00/0186_05936.88-05940.62.wav",
       "filename": "0186_05936.88-05940.62.wav",
       "speaker": "SPEAKER_00",
@@ -6371,7 +6303,7 @@
       "text_words": 8
     },
     {
-      "id": 374,
+      "id": 370,
       "audio": "SPEAKER_01/0188_05940.62-05949.62.wav",
       "filename": "0188_05940.62-05949.62.wav",
       "speaker": "SPEAKER_01",
@@ -6388,7 +6320,7 @@
       "text_words": 16
     },
     {
-      "id": 375,
+      "id": 371,
       "audio": "SPEAKER_00/0187_05949.62-05951.88.wav",
       "filename": "0187_05949.62-05951.88.wav",
       "speaker": "SPEAKER_00",
@@ -6405,7 +6337,7 @@
       "text_words": 6
     },
     {
-      "id": 376,
+      "id": 372,
       "audio": "SPEAKER_01/0189_05951.88-05956.38.wav",
       "filename": "0189_05951.88-05956.38.wav",
       "speaker": "SPEAKER_01",
@@ -6422,7 +6354,7 @@
       "text_words": 15
     },
     {
-      "id": 377,
+      "id": 373,
       "audio": "SPEAKER_00/0188_05956.38-05975.88.wav",
       "filename": "0188_05956.38-05975.88.wav",
       "speaker": "SPEAKER_00",
@@ -6439,7 +6371,7 @@
       "text_words": 38
     },
     {
-      "id": 378,
+      "id": 374,
       "audio": "SPEAKER_00/0189_05976.62-05981.88.wav",
       "filename": "0189_05976.62-05981.88.wav",
       "speaker": "SPEAKER_00",
@@ -6456,7 +6388,7 @@
       "text_words": 15
     },
     {
-      "id": 379,
+      "id": 375,
       "audio": "SPEAKER_01/0190_05981.88-05985.62.wav",
       "filename": "0190_05981.88-05985.62.wav",
       "speaker": "SPEAKER_01",
@@ -6473,7 +6405,7 @@
       "text_words": 8
     },
     {
-      "id": 380,
+      "id": 376,
       "audio": "SPEAKER_00/0190_05985.62-05987.12.wav",
       "filename": "0190_05985.62-05987.12.wav",
       "speaker": "SPEAKER_00",
@@ -6490,7 +6422,7 @@
       "text_words": 3
     },
     {
-      "id": 381,
+      "id": 377,
       "audio": "SPEAKER_01/0191_05987.12-05996.12.wav",
       "filename": "0191_05987.12-05996.12.wav",
       "speaker": "SPEAKER_01",
@@ -6507,7 +6439,7 @@
       "text_words": 27
     },
     {
-      "id": 382,
+      "id": 378,
       "audio": "SPEAKER_00/0191_05996.12-05998.38.wav",
       "filename": "0191_05996.12-05998.38.wav",
       "speaker": "SPEAKER_00",
@@ -6524,7 +6456,7 @@
       "text_words": 6
     },
     {
-      "id": 383,
+      "id": 379,
       "audio": "SPEAKER_01/0192_05998.38-06005.12.wav",
       "filename": "0192_05998.38-06005.12.wav",
       "speaker": "SPEAKER_01",
@@ -6541,7 +6473,7 @@
       "text_words": 12
     },
     {
-      "id": 384,
+      "id": 380,
       "audio": "SPEAKER_00/0192_06005.12-06006.62.wav",
       "filename": "0192_06005.12-06006.62.wav",
       "speaker": "SPEAKER_00",
@@ -6558,7 +6490,7 @@
       "text_words": 5
     },
     {
-      "id": 385,
+      "id": 381,
       "audio": "SPEAKER_01/0193_06006.62-06009.62.wav",
       "filename": "0193_06006.62-06009.62.wav",
       "speaker": "SPEAKER_01",
@@ -6575,7 +6507,7 @@
       "text_words": 7
     },
     {
-      "id": 386,
+      "id": 382,
       "audio": "SPEAKER_00/0193_06009.62-06022.38.wav",
       "filename": "0193_06009.62-06022.38.wav",
       "speaker": "SPEAKER_00",
@@ -6592,7 +6524,7 @@
       "text_words": 29
     },
     {
-      "id": 387,
+      "id": 383,
       "audio": "SPEAKER_01/0194_06022.38-06028.38.wav",
       "filename": "0194_06022.38-06028.38.wav",
       "speaker": "SPEAKER_01",
@@ -6609,7 +6541,7 @@
       "text_words": 15
     },
     {
-      "id": 388,
+      "id": 384,
       "audio": "SPEAKER_00/0194_06028.38-06040.38.wav",
       "filename": "0194_06028.38-06040.38.wav",
       "speaker": "SPEAKER_00",
@@ -6626,7 +6558,7 @@
       "text_words": 24
     },
     {
-      "id": 389,
+      "id": 385,
       "audio": "SPEAKER_01/0195_06040.38-06042.62.wav",
       "filename": "0195_06040.38-06042.62.wav",
       "speaker": "SPEAKER_01",
@@ -6643,7 +6575,7 @@
       "text_words": 6
     },
     {
-      "id": 390,
+      "id": 386,
       "audio": "SPEAKER_00/0195_06042.62-06058.38.wav",
       "filename": "0195_06042.62-06058.38.wav",
       "speaker": "SPEAKER_00",
@@ -6660,7 +6592,7 @@
       "text_words": 41
     },
     {
-      "id": 391,
+      "id": 387,
       "audio": "SPEAKER_00/0196_06059.12-06060.62.wav",
       "filename": "0196_06059.12-06060.62.wav",
       "speaker": "SPEAKER_00",
@@ -6677,7 +6609,7 @@
       "text_words": 5
     },
     {
-      "id": 392,
+      "id": 388,
       "audio": "SPEAKER_01/0196_06060.62-06081.62.wav",
       "filename": "0196_06060.62-06081.62.wav",
       "speaker": "SPEAKER_01",
@@ -6694,7 +6626,7 @@
       "text_words": 65
     },
     {
-      "id": 393,
+      "id": 389,
       "audio": "SPEAKER_00/0197_06081.62-06103.33.wav",
       "filename": "0197_06081.62-06103.33.wav",
       "speaker": "SPEAKER_00",
@@ -6711,7 +6643,7 @@
       "text_words": 44
     },
     {
-      "id": 394,
+      "id": 390,
       "audio": "SPEAKER_01/0197_06105.50-06111.12.wav",
       "filename": "0197_06105.50-06111.12.wav",
       "speaker": "SPEAKER_01",
@@ -6728,7 +6660,7 @@
       "text_words": 12
     },
     {
-      "id": 395,
+      "id": 391,
       "audio": "SPEAKER_00/0198_06111.12-06129.63.wav",
       "filename": "0198_06111.12-06129.63.wav",
       "speaker": "SPEAKER_00",
@@ -6745,7 +6677,7 @@
       "text_words": 43
     },
     {
-      "id": 396,
+      "id": 392,
       "audio": "SPEAKER_01/0198_06131.01-06145.64.wav",
       "filename": "0198_06131.01-06145.64.wav",
       "speaker": "SPEAKER_01",
@@ -6762,7 +6694,7 @@
       "text_words": 26
     },
     {
-      "id": 397,
+      "id": 393,
       "audio": "SPEAKER_00/0199_06145.64-06160.34.wav",
       "filename": "0199_06145.64-06160.34.wav",
       "speaker": "SPEAKER_00",
@@ -6779,7 +6711,7 @@
       "text_words": 28
     },
     {
-      "id": 398,
+      "id": 394,
       "audio": "SPEAKER_01/0199_06160.34-06177.35.wav",
       "filename": "0199_06160.34-06177.35.wav",
       "speaker": "SPEAKER_01",
@@ -6796,7 +6728,7 @@
       "text_words": 37
     },
     {
-      "id": 399,
+      "id": 395,
       "audio": "SPEAKER_01/0200_06178.10-06191.60.wav",
       "filename": "0200_06178.10-06191.60.wav",
       "speaker": "SPEAKER_01",
@@ -6813,7 +6745,7 @@
       "text_words": 35
     },
     {
-      "id": 400,
+      "id": 396,
       "audio": "SPEAKER_00/0200_06191.60-06200.60.wav",
       "filename": "0200_06191.60-06200.60.wav",
       "speaker": "SPEAKER_00",
@@ -6830,7 +6762,7 @@
       "text_words": 23
     },
     {
-      "id": 401,
+      "id": 397,
       "audio": "SPEAKER_01/0201_06200.60-06202.85.wav",
       "filename": "0201_06200.60-06202.85.wav",
       "speaker": "SPEAKER_01",
@@ -6847,7 +6779,7 @@
       "text_words": 7
     },
     {
-      "id": 402,
+      "id": 398,
       "audio": "SPEAKER_00/0201_06203.91-06210.28.wav",
       "filename": "0201_06203.91-06210.28.wav",
       "speaker": "SPEAKER_00",
@@ -6864,7 +6796,7 @@
       "text_words": 12
     },
     {
-      "id": 403,
+      "id": 399,
       "audio": "SPEAKER_01/0202_06210.28-06247.78.wav",
       "filename": "0202_06210.28-06247.78.wav",
       "speaker": "SPEAKER_01",
@@ -6881,7 +6813,7 @@
       "text_words": 89
     },
     {
-      "id": 404,
+      "id": 400,
       "audio": "SPEAKER_00/0202_06247.78-06259.03.wav",
       "filename": "0202_06247.78-06259.03.wav",
       "speaker": "SPEAKER_00",
@@ -6898,7 +6830,7 @@
       "text_words": 17
     },
     {
-      "id": 405,
+      "id": 401,
       "audio": "SPEAKER_01/0203_06259.03-06359.53.wav",
       "filename": "0203_06259.03-06359.53.wav",
       "speaker": "SPEAKER_01",
@@ -6915,7 +6847,7 @@
       "text_words": 238
     },
     {
-      "id": 406,
+      "id": 402,
       "audio": "SPEAKER_00/0203_06359.53-06373.78.wav",
       "filename": "0203_06359.53-06373.78.wav",
       "speaker": "SPEAKER_00",
@@ -6932,7 +6864,7 @@
       "text_words": 25
     },
     {
-      "id": 407,
+      "id": 403,
       "audio": "SPEAKER_01/0204_06373.78-06420.55.wav",
       "filename": "0204_06373.78-06420.55.wav",
       "speaker": "SPEAKER_01",
@@ -6949,7 +6881,7 @@
       "text_words": 93
     },
     {
-      "id": 408,
+      "id": 404,
       "audio": "SPEAKER_00/0204_06420.55-06439.30.wav",
       "filename": "0204_06420.55-06439.30.wav",
       "speaker": "SPEAKER_00",
@@ -6966,7 +6898,7 @@
       "text_words": 33
     },
     {
-      "id": 409,
+      "id": 405,
       "audio": "SPEAKER_01/0205_06439.30-06440.80.wav",
       "filename": "0205_06439.30-06440.80.wav",
       "speaker": "SPEAKER_01",
@@ -6983,7 +6915,7 @@
       "text_words": 2
     },
     {
-      "id": 410,
+      "id": 406,
       "audio": "SPEAKER_00/0205_06440.80-06446.80.wav",
       "filename": "0205_06440.80-06446.80.wav",
       "speaker": "SPEAKER_00",
@@ -7000,7 +6932,7 @@
       "text_words": 12
     },
     {
-      "id": 411,
+      "id": 407,
       "audio": "SPEAKER_01/0206_06446.80-06480.55.wav",
       "filename": "0206_06446.80-06480.55.wav",
       "speaker": "SPEAKER_01",
@@ -7017,7 +6949,7 @@
       "text_words": 73
     },
     {
-      "id": 412,
+      "id": 408,
       "audio": "SPEAKER_01/0207_06481.30-06482.80.wav",
       "filename": "0207_06481.30-06482.80.wav",
       "speaker": "SPEAKER_01",
@@ -7034,7 +6966,7 @@
       "text_words": 3
     },
     {
-      "id": 413,
+      "id": 409,
       "audio": "SPEAKER_00/0206_06482.80-06488.80.wav",
       "filename": "0206_06482.80-06488.80.wav",
       "speaker": "SPEAKER_00",
@@ -7051,7 +6983,7 @@
       "text_words": 20
     },
     {
-      "id": 414,
+      "id": 410,
       "audio": "SPEAKER_00/0207_06489.55-06500.05.wav",
       "filename": "0207_06489.55-06500.05.wav",
       "speaker": "SPEAKER_00",
@@ -7068,7 +7000,7 @@
       "text_words": 26
     },
     {
-      "id": 415,
+      "id": 411,
       "audio": "SPEAKER_01/0208_06500.05-06503.05.wav",
       "filename": "0208_06500.05-06503.05.wav",
       "speaker": "SPEAKER_01",
@@ -7085,7 +7017,7 @@
       "text_words": 11
     },
     {
-      "id": 416,
+      "id": 412,
       "audio": "SPEAKER_01/0209_06503.80-06507.55.wav",
       "filename": "0209_06503.80-06507.55.wav",
       "speaker": "SPEAKER_01",
@@ -7102,7 +7034,7 @@
       "text_words": 6
     },
     {
-      "id": 417,
+      "id": 413,
       "audio": "SPEAKER_00/0208_06507.55-06511.30.wav",
       "filename": "0208_06507.55-06511.30.wav",
       "speaker": "SPEAKER_00",
@@ -7119,7 +7051,7 @@
       "text_words": 6
     },
     {
-      "id": 418,
+      "id": 414,
       "audio": "SPEAKER_01/0210_06511.30-06512.80.wav",
       "filename": "0210_06511.30-06512.80.wav",
       "speaker": "SPEAKER_01",
@@ -7136,7 +7068,7 @@
       "text_words": 2
     },
     {
-      "id": 419,
+      "id": 415,
       "audio": "SPEAKER_00/0209_06512.80-06514.30.wav",
       "filename": "0209_06512.80-06514.30.wav",
       "speaker": "SPEAKER_00",
@@ -7153,7 +7085,7 @@
       "text_words": 2
     },
     {
-      "id": 420,
+      "id": 416,
       "audio": "SPEAKER_01/0211_06514.30-06518.80.wav",
       "filename": "0211_06514.30-06518.80.wav",
       "speaker": "SPEAKER_01",
@@ -7170,7 +7102,7 @@
       "text_words": 8
     },
     {
-      "id": 421,
+      "id": 417,
       "audio": "SPEAKER_00/0210_06518.80-06524.05.wav",
       "filename": "0210_06518.80-06524.05.wav",
       "speaker": "SPEAKER_00",
@@ -7187,7 +7119,7 @@
       "text_words": 15
     },
     {
-      "id": 422,
+      "id": 418,
       "audio": "SPEAKER_01/0212_06524.05-06527.05.wav",
       "filename": "0212_06524.05-06527.05.wav",
       "speaker": "SPEAKER_01",
@@ -7204,7 +7136,7 @@
       "text_words": 4
     },
     {
-      "id": 423,
+      "id": 419,
       "audio": "SPEAKER_00/0211_06527.05-06530.05.wav",
       "filename": "0211_06527.05-06530.05.wav",
       "speaker": "SPEAKER_00",
@@ -7221,7 +7153,7 @@
       "text_words": 7
     },
     {
-      "id": 424,
+      "id": 420,
       "audio": "SPEAKER_01/0213_06530.05-06561.19.wav",
       "filename": "0213_06530.05-06561.19.wav",
       "speaker": "SPEAKER_01",
@@ -7238,7 +7170,7 @@
       "text_words": 61
     },
     {
-      "id": 425,
+      "id": 421,
       "audio": "SPEAKER_01/0214_06561.94-06566.44.wav",
       "filename": "0214_06561.94-06566.44.wav",
       "speaker": "SPEAKER_01",
@@ -7255,7 +7187,7 @@
       "text_words": 6
     },
     {
-      "id": 426,
+      "id": 422,
       "audio": "SPEAKER_00/0212_06566.44-06579.19.wav",
       "filename": "0212_06566.44-06579.19.wav",
       "speaker": "SPEAKER_00",
@@ -7272,7 +7204,7 @@
       "text_words": 34
     },
     {
-      "id": 427,
+      "id": 423,
       "audio": "SPEAKER_01/0215_06579.19-06587.44.wav",
       "filename": "0215_06579.19-06587.44.wav",
       "speaker": "SPEAKER_01",
@@ -7289,7 +7221,7 @@
       "text_words": 26
     },
     {
-      "id": 428,
+      "id": 424,
       "audio": "SPEAKER_00/0213_06587.44-06592.69.wav",
       "filename": "0213_06587.44-06592.69.wav",
       "speaker": "SPEAKER_00",
@@ -7306,7 +7238,7 @@
       "text_words": 21
     },
     {
-      "id": 429,
+      "id": 425,
       "audio": "SPEAKER_01/0216_06592.69-06598.69.wav",
       "filename": "0216_06592.69-06598.69.wav",
       "speaker": "SPEAKER_01",
@@ -7323,7 +7255,7 @@
       "text_words": 17
     },
     {
-      "id": 430,
+      "id": 426,
       "audio": "SPEAKER_00/0214_06598.69-06601.69.wav",
       "filename": "0214_06598.69-06601.69.wav",
       "speaker": "SPEAKER_00",
@@ -7340,7 +7272,7 @@
       "text_words": 10
     },
     {
-      "id": 431,
+      "id": 427,
       "audio": "SPEAKER_01/0217_06601.69-06606.94.wav",
       "filename": "0217_06601.69-06606.94.wav",
       "speaker": "SPEAKER_01",
@@ -7357,7 +7289,7 @@
       "text_words": 15
     },
     {
-      "id": 432,
+      "id": 428,
       "audio": "SPEAKER_00/0215_06606.94-06609.19.wav",
       "filename": "0215_06606.94-06609.19.wav",
       "speaker": "SPEAKER_00",
@@ -7374,7 +7306,7 @@
       "text_words": 7
     },
     {
-      "id": 433,
+      "id": 429,
       "audio": "SPEAKER_01/0218_06609.19-06615.94.wav",
       "filename": "0218_06609.19-06615.94.wav",
       "speaker": "SPEAKER_01",
@@ -7391,7 +7323,7 @@
       "text_words": 18
     },
     {
-      "id": 434,
+      "id": 430,
       "audio": "SPEAKER_00/0216_06615.94-06617.44.wav",
       "filename": "0216_06615.94-06617.44.wav",
       "speaker": "SPEAKER_00",
@@ -7408,7 +7340,7 @@
       "text_words": 5
     },
     {
-      "id": 435,
+      "id": 431,
       "audio": "SPEAKER_01/0219_06617.44-06618.94.wav",
       "filename": "0219_06617.44-06618.94.wav",
       "speaker": "SPEAKER_01",
@@ -7425,7 +7357,7 @@
       "text_words": 1
     },
     {
-      "id": 436,
+      "id": 432,
       "audio": "SPEAKER_00/0217_06618.94-06627.94.wav",
       "filename": "0217_06618.94-06627.94.wav",
       "speaker": "SPEAKER_00",
@@ -7442,7 +7374,7 @@
       "text_words": 17
     },
     {
-      "id": 437,
+      "id": 433,
       "audio": "SPEAKER_01/0220_06627.94-06654.19.wav",
       "filename": "0220_06627.94-06654.19.wav",
       "speaker": "SPEAKER_01",
@@ -7459,7 +7391,7 @@
       "text_words": 63
     },
     {
-      "id": 438,
+      "id": 434,
       "audio": "SPEAKER_00/0218_06654.19-06658.69.wav",
       "filename": "0218_06654.19-06658.69.wav",
       "speaker": "SPEAKER_00",
@@ -7476,7 +7408,7 @@
       "text_words": 12
     },
     {
-      "id": 439,
+      "id": 435,
       "audio": "SPEAKER_00/0219_06659.44-06664.69.wav",
       "filename": "0219_06659.44-06664.69.wav",
       "speaker": "SPEAKER_00",
@@ -7493,7 +7425,7 @@
       "text_words": 13
     },
     {
-      "id": 440,
+      "id": 436,
       "audio": "SPEAKER_01/0221_06664.69-06666.19.wav",
       "filename": "0221_06664.69-06666.19.wav",
       "speaker": "SPEAKER_01",
@@ -7510,7 +7442,7 @@
       "text_words": 3
     },
     {
-      "id": 441,
+      "id": 437,
       "audio": "SPEAKER_00/0220_06666.19-06690.39.wav",
       "filename": "0220_06666.19-06690.39.wav",
       "speaker": "SPEAKER_00",
@@ -7527,7 +7459,7 @@
       "text_words": 57
     },
     {
-      "id": 442,
+      "id": 438,
       "audio": "SPEAKER_01/0222_06690.39-06716.64.wav",
       "filename": "0222_06690.39-06716.64.wav",
       "speaker": "SPEAKER_01",
@@ -7544,7 +7476,7 @@
       "text_words": 51
     },
     {
-      "id": 443,
+      "id": 439,
       "audio": "SPEAKER_00/0221_06716.64-06717.96.wav",
       "filename": "0221_06716.64-06717.96.wav",
       "speaker": "SPEAKER_00",
@@ -7561,7 +7493,7 @@
       "text_words": 2
     },
     {
-      "id": 444,
+      "id": 440,
       "audio": "SPEAKER_01/0223_06718.56-06745.61.wav",
       "filename": "0223_06718.56-06745.61.wav",
       "speaker": "SPEAKER_01",
@@ -7578,7 +7510,7 @@
       "text_words": 60
     },
     {
-      "id": 445,
+      "id": 441,
       "audio": "SPEAKER_00/0222_06745.61-06747.11.wav",
       "filename": "0222_06745.61-06747.11.wav",
       "speaker": "SPEAKER_00",
@@ -7595,7 +7527,7 @@
       "text_words": 1
     },
     {
-      "id": 446,
+      "id": 442,
       "audio": "SPEAKER_01/0224_06747.11-06750.86.wav",
       "filename": "0224_06747.11-06750.86.wav",
       "speaker": "SPEAKER_01",
@@ -7612,7 +7544,7 @@
       "text_words": 13
     },
     {
-      "id": 447,
+      "id": 443,
       "audio": "SPEAKER_00/0223_06750.86-06780.86.wav",
       "filename": "0223_06750.86-06780.86.wav",
       "speaker": "SPEAKER_00",
@@ -7629,7 +7561,7 @@
       "text_words": 67
     },
     {
-      "id": 448,
+      "id": 444,
       "audio": "SPEAKER_00/0224_06781.61-06797.36.wav",
       "filename": "0224_06781.61-06797.36.wav",
       "speaker": "SPEAKER_00",
@@ -7646,7 +7578,7 @@
       "text_words": 34
     },
     {
-      "id": 449,
+      "id": 445,
       "audio": "SPEAKER_01/0225_06797.36-06863.10.wav",
       "filename": "0225_06797.36-06863.10.wav",
       "speaker": "SPEAKER_01",
@@ -7663,7 +7595,7 @@
       "text_words": 176
     },
     {
-      "id": 450,
+      "id": 446,
       "audio": "SPEAKER_00/0225_06863.10-06865.35.wav",
       "filename": "0225_06863.10-06865.35.wav",
       "speaker": "SPEAKER_00",
@@ -7680,7 +7612,7 @@
       "text_words": 6
     },
     {
-      "id": 451,
+      "id": 447,
       "audio": "SPEAKER_01/0226_06865.35-06868.35.wav",
       "filename": "0226_06865.35-06868.35.wav",
       "speaker": "SPEAKER_01",
@@ -7697,7 +7629,7 @@
       "text_words": 3
     },
     {
-      "id": 452,
+      "id": 448,
       "audio": "SPEAKER_00/0226_06868.35-06874.12.wav",
       "filename": "0226_06868.35-06874.12.wav",
       "speaker": "SPEAKER_00",
@@ -7714,7 +7646,7 @@
       "text_words": 19
     },
     {
-      "id": 453,
+      "id": 449,
       "audio": "SPEAKER_01/0227_06874.72-06880.35.wav",
       "filename": "0227_06874.72-06880.35.wav",
       "speaker": "SPEAKER_01",
@@ -7731,7 +7663,7 @@
       "text_words": 11
     },
     {
-      "id": 454,
+      "id": 450,
       "audio": "SPEAKER_00/0227_06880.35-06890.36.wav",
       "filename": "0227_06880.35-06890.36.wav",
       "speaker": "SPEAKER_00",
@@ -7748,7 +7680,7 @@
       "text_words": 24
     },
     {
-      "id": 455,
+      "id": 451,
       "audio": "SPEAKER_01/0228_06891.13-06906.50.wav",
       "filename": "0228_06891.13-06906.50.wav",
       "speaker": "SPEAKER_01",
@@ -7765,7 +7697,7 @@
       "text_words": 44
     },
     {
-      "id": 456,
+      "id": 452,
       "audio": "SPEAKER_00/0228_06906.50-06909.50.wav",
       "filename": "0228_06906.50-06909.50.wav",
       "speaker": "SPEAKER_00",
@@ -7782,7 +7714,7 @@
       "text_words": 6
     },
     {
-      "id": 457,
+      "id": 453,
       "audio": "SPEAKER_01/0229_06909.50-06914.00.wav",
       "filename": "0229_06909.50-06914.00.wav",
       "speaker": "SPEAKER_01",
@@ -7799,7 +7731,7 @@
       "text_words": 8
     },
     {
-      "id": 458,
+      "id": 454,
       "audio": "SPEAKER_00/0229_06914.00-06915.50.wav",
       "filename": "0229_06914.00-06915.50.wav",
       "speaker": "SPEAKER_00",
@@ -7816,7 +7748,7 @@
       "text_words": 4
     },
     {
-      "id": 459,
+      "id": 455,
       "audio": "SPEAKER_01/0230_06915.50-06926.75.wav",
       "filename": "0230_06915.50-06926.75.wav",
       "speaker": "SPEAKER_01",
@@ -7833,7 +7765,7 @@
       "text_words": 16
     },
     {
-      "id": 460,
+      "id": 456,
       "audio": "SPEAKER_00/0230_06926.75-06934.25.wav",
       "filename": "0230_06926.75-06934.25.wav",
       "speaker": "SPEAKER_00",
@@ -7850,7 +7782,7 @@
       "text_words": 16
     },
     {
-      "id": 461,
+      "id": 457,
       "audio": "SPEAKER_01/0231_06934.25-06959.75.wav",
       "filename": "0231_06934.25-06959.75.wav",
       "speaker": "SPEAKER_01",
@@ -7867,7 +7799,7 @@
       "text_words": 54
     },
     {
-      "id": 462,
+      "id": 458,
       "audio": "SPEAKER_00/0231_06959.75-06968.94.wav",
       "filename": "0231_06959.75-06968.94.wav",
       "speaker": "SPEAKER_00",
@@ -7884,7 +7816,7 @@
       "text_words": 19
     },
     {
-      "id": 463,
+      "id": 459,
       "audio": "SPEAKER_01/0232_06969.94-06996.56.wav",
       "filename": "0232_06969.94-06996.56.wav",
       "speaker": "SPEAKER_01",
@@ -7901,7 +7833,7 @@
       "text_words": 47
     },
     {
-      "id": 464,
+      "id": 460,
       "audio": "SPEAKER_00/0232_06996.56-06999.56.wav",
       "filename": "0232_06996.56-06999.56.wav",
       "speaker": "SPEAKER_00",
@@ -7918,7 +7850,7 @@
       "text_words": 10
     },
     {
-      "id": 465,
+      "id": 461,
       "audio": "SPEAKER_01/0233_06999.56-07004.06.wav",
       "filename": "0233_06999.56-07004.06.wav",
       "speaker": "SPEAKER_01",
@@ -7935,7 +7867,7 @@
       "text_words": 13
     },
     {
-      "id": 466,
+      "id": 462,
       "audio": "SPEAKER_00/0233_07004.06-07005.56.wav",
       "filename": "0233_07004.06-07005.56.wav",
       "speaker": "SPEAKER_00",
@@ -7952,7 +7884,7 @@
       "text_words": 5
     },
     {
-      "id": 467,
+      "id": 463,
       "audio": "SPEAKER_01/0234_07005.56-07018.23.wav",
       "filename": "0234_07005.56-07018.23.wav",
       "speaker": "SPEAKER_01",
@@ -7969,7 +7901,7 @@
       "text_words": 24
     },
     {
-      "id": 468,
+      "id": 464,
       "audio": "SPEAKER_01/0235_07018.98-07024.98.wav",
       "filename": "0235_07018.98-07024.98.wav",
       "speaker": "SPEAKER_01",
@@ -7986,7 +7918,7 @@
       "text_words": 13
     },
     {
-      "id": 469,
+      "id": 465,
       "audio": "SPEAKER_00/0234_07024.98-07034.26.wav",
       "filename": "0234_07024.98-07034.26.wav",
       "speaker": "SPEAKER_00",
@@ -8003,7 +7935,7 @@
       "text_words": 20
     },
     {
-      "id": 470,
+      "id": 466,
       "audio": "SPEAKER_01/0236_07035.34-07046.25.wav",
       "filename": "0236_07035.34-07046.25.wav",
       "speaker": "SPEAKER_01",
@@ -8020,7 +7952,7 @@
       "text_words": 27
     },
     {
-      "id": 471,
+      "id": 467,
       "audio": "SPEAKER_00/0235_07046.25-07047.75.wav",
       "filename": "0235_07046.25-07047.75.wav",
       "speaker": "SPEAKER_00",
@@ -8037,7 +7969,7 @@
       "text_words": 4
     },
     {
-      "id": 472,
+      "id": 468,
       "audio": "SPEAKER_01/0237_07047.75-07050.00.wav",
       "filename": "0237_07047.75-07050.00.wav",
       "speaker": "SPEAKER_01",
@@ -8054,7 +7986,7 @@
       "text_words": 6
     },
     {
-      "id": 473,
+      "id": 469,
       "audio": "SPEAKER_00/0236_07050.00-07056.00.wav",
       "filename": "0236_07050.00-07056.00.wav",
       "speaker": "SPEAKER_00",
@@ -8071,7 +8003,7 @@
       "text_words": 12
     },
     {
-      "id": 474,
+      "id": 470,
       "audio": "SPEAKER_01/0238_07056.00-07063.11.wav",
       "filename": "0238_07056.00-07063.11.wav",
       "speaker": "SPEAKER_01",
@@ -8088,7 +8020,7 @@
       "text_words": 11
     },
     {
-      "id": 475,
+      "id": 471,
       "audio": "SPEAKER_01/0239_07064.85-07086.76.wav",
       "filename": "0239_07064.85-07086.76.wav",
       "speaker": "SPEAKER_01",
@@ -8105,7 +8037,7 @@
       "text_words": 54
     },
     {
-      "id": 476,
+      "id": 472,
       "audio": "SPEAKER_00/0237_07086.76-07091.26.wav",
       "filename": "0237_07086.76-07091.26.wav",
       "speaker": "SPEAKER_00",
@@ -8122,7 +8054,7 @@
       "text_words": 11
     },
     {
-      "id": 477,
+      "id": 473,
       "audio": "SPEAKER_01/0240_07091.26-07096.51.wav",
       "filename": "0240_07091.26-07096.51.wav",
       "speaker": "SPEAKER_01",
@@ -8139,7 +8071,7 @@
       "text_words": 8
     },
     {
-      "id": 478,
+      "id": 474,
       "audio": "SPEAKER_00/0238_07096.51-07099.51.wav",
       "filename": "0238_07096.51-07099.51.wav",
       "speaker": "SPEAKER_00",
@@ -8156,7 +8088,7 @@
       "text_words": 9
     },
     {
-      "id": 479,
+      "id": 475,
       "audio": "SPEAKER_01/0241_07099.51-07102.51.wav",
       "filename": "0241_07099.51-07102.51.wav",
       "speaker": "SPEAKER_01",
@@ -8173,7 +8105,7 @@
       "text_words": 9
     },
     {
-      "id": 480,
+      "id": 476,
       "audio": "SPEAKER_00/0239_07102.51-07113.76.wav",
       "filename": "0239_07102.51-07113.76.wav",
       "speaker": "SPEAKER_00",
@@ -8190,7 +8122,7 @@
       "text_words": 29
     },
     {
-      "id": 481,
+      "id": 477,
       "audio": "SPEAKER_00/0240_07114.51-07125.47.wav",
       "filename": "0240_07114.51-07125.47.wav",
       "speaker": "SPEAKER_00",
@@ -8207,7 +8139,7 @@
       "text_words": 31
     },
     {
-      "id": 482,
+      "id": 478,
       "audio": "SPEAKER_01/0242_07126.31-07159.35.wav",
       "filename": "0242_07126.31-07159.35.wav",
       "speaker": "SPEAKER_01",
@@ -8224,7 +8156,7 @@
       "text_words": 65
     },
     {
-      "id": 483,
+      "id": 479,
       "audio": "SPEAKER_00/0241_07159.35-07161.60.wav",
       "filename": "0241_07159.35-07161.60.wav",
       "speaker": "SPEAKER_00",
@@ -8241,7 +8173,7 @@
       "text_words": 9
     },
     {
-      "id": 484,
+      "id": 480,
       "audio": "SPEAKER_01/0243_07161.60-07163.10.wav",
       "filename": "0243_07161.60-07163.10.wav",
       "speaker": "SPEAKER_01",
@@ -8258,7 +8190,7 @@
       "text_words": 1
     },
     {
-      "id": 485,
+      "id": 481,
       "audio": "SPEAKER_00/0242_07163.10-07171.35.wav",
       "filename": "0242_07163.10-07171.35.wav",
       "speaker": "SPEAKER_00",
@@ -8275,7 +8207,7 @@
       "text_words": 18
     },
     {
-      "id": 486,
+      "id": 482,
       "audio": "SPEAKER_00/0243_07172.10-07175.10.wav",
       "filename": "0243_07172.10-07175.10.wav",
       "speaker": "SPEAKER_00",
@@ -8292,7 +8224,7 @@
       "text_words": 10
     },
     {
-      "id": 487,
+      "id": 483,
       "audio": "SPEAKER_01/0244_07175.10-07194.98.wav",
       "filename": "0244_07175.10-07194.98.wav",
       "speaker": "SPEAKER_01",
@@ -8309,7 +8241,7 @@
       "text_words": 35
     },
     {
-      "id": 488,
+      "id": 484,
       "audio": "SPEAKER_00/0244_07194.98-07199.48.wav",
       "filename": "0244_07194.98-07199.48.wav",
       "speaker": "SPEAKER_00",
@@ -8326,24 +8258,7 @@
       "text_words": 6
     },
     {
-      "id": 489,
-      "audio": "SPEAKER_01/0245_07199.48-07200.98.wav",
-      "filename": "0245_07199.48-07200.98.wav",
-      "speaker": "SPEAKER_01",
-      "start_sec": 7199.48,
-      "end_sec": 7200.98,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 132344,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 490,
+      "id": 485,
       "audio": "SPEAKER_00/0245_07200.98-07203.23.wav",
       "filename": "0245_07200.98-07203.23.wav",
       "speaker": "SPEAKER_00",
@@ -8360,24 +8275,7 @@
       "text_words": 3
     },
     {
-      "id": 491,
-      "audio": "SPEAKER_01/0246_07203.23-07204.73.wav",
-      "filename": "0246_07203.23-07204.73.wav",
-      "speaker": "SPEAKER_01",
-      "start_sec": 7203.23,
-      "end_sec": 7204.73,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
-      "sample_rate": 44100,
-      "channels": 1,
-      "bit_depth": 16,
-      "file_bytes": 132344,
-      "text": "",
-      "text_chars": 0,
-      "text_words": 0
-    },
-    {
-      "id": 492,
+      "id": 486,
       "audio": "SPEAKER_00/0246_07204.73-07252.73.wav",
       "filename": "0246_07204.73-07252.73.wav",
       "speaker": "SPEAKER_00",
@@ -8394,7 +8292,7 @@
       "text_words": 127
     },
     {
-      "id": 493,
+      "id": 487,
       "audio": "SPEAKER_00/0247_07253.48-07255.31.wav",
       "filename": "0247_07253.48-07255.31.wav",
       "speaker": "SPEAKER_00",
@@ -8411,7 +8309,7 @@
       "text_words": 2
     },
     {
-      "id": 494,
+      "id": 488,
       "audio": "SPEAKER_01/0247_07256.23-07258.10.wav",
       "filename": "0247_07256.23-07258.10.wav",
       "speaker": "SPEAKER_01",
@@ -8428,7 +8326,7 @@
       "text_words": 1
     },
     {
-      "id": 495,
+      "id": 489,
       "audio": "SPEAKER_00/0248_07258.10-07264.10.wav",
       "filename": "0248_07258.10-07264.10.wav",
       "speaker": "SPEAKER_00",
@@ -8445,7 +8343,7 @@
       "text_words": 8
     },
     {
-      "id": 496,
+      "id": 490,
       "audio": "SPEAKER_01/0248_07264.10-07280.60.wav",
       "filename": "0248_07264.10-07280.60.wav",
       "speaker": "SPEAKER_01",
@@ -8462,7 +8360,7 @@
       "text_words": 46
     },
     {
-      "id": 497,
+      "id": 491,
       "audio": "SPEAKER_00/0249_07280.60-07288.05.wav",
       "filename": "0249_07280.60-07288.05.wav",
       "speaker": "SPEAKER_00",
@@ -8479,7 +8377,7 @@
       "text_words": 19
     },
     {
-      "id": 498,
+      "id": 492,
       "audio": "SPEAKER_01/0249_07288.95-07290.82.wav",
       "filename": "0249_07288.95-07290.82.wav",
       "speaker": "SPEAKER_01",
@@ -8496,7 +8394,7 @@
       "text_words": 4
     },
     {
-      "id": 499,
+      "id": 493,
       "audio": "SPEAKER_00/0250_07290.82-07293.82.wav",
       "filename": "0250_07290.82-07293.82.wav",
       "speaker": "SPEAKER_00",
@@ -8513,7 +8411,7 @@
       "text_words": 8
     },
     {
-      "id": 500,
+      "id": 494,
       "audio": "SPEAKER_01/0250_07293.82-07309.57.wav",
       "filename": "0250_07293.82-07309.57.wav",
       "speaker": "SPEAKER_01",
@@ -8530,7 +8428,7 @@
       "text_words": 42
     },
     {
-      "id": 501,
+      "id": 495,
       "audio": "SPEAKER_00/0251_07309.57-07322.32.wav",
       "filename": "0251_07309.57-07322.32.wav",
       "speaker": "SPEAKER_00",
@@ -8547,7 +8445,7 @@
       "text_words": 38
     },
     {
-      "id": 502,
+      "id": 496,
       "audio": "SPEAKER_00/0252_07323.07-07324.57.wav",
       "filename": "0252_07323.07-07324.57.wav",
       "speaker": "SPEAKER_00",
@@ -8564,7 +8462,7 @@
       "text_words": 7
     },
     {
-      "id": 503,
+      "id": 497,
       "audio": "SPEAKER_01/0251_07324.57-07327.57.wav",
       "filename": "0251_07324.57-07327.57.wav",
       "speaker": "SPEAKER_01",
@@ -8581,7 +8479,7 @@
       "text_words": 6
     },
     {
-      "id": 504,
+      "id": 498,
       "audio": "SPEAKER_00/0253_07327.57-07363.57.wav",
       "filename": "0253_07327.57-07363.57.wav",
       "speaker": "SPEAKER_00",
@@ -8598,7 +8496,7 @@
       "text_words": 87
     },
     {
-      "id": 505,
+      "id": 499,
       "audio": "SPEAKER_00/0254_07364.32-07366.57.wav",
       "filename": "0254_07364.32-07366.57.wav",
       "speaker": "SPEAKER_00",
@@ -8615,7 +8513,7 @@
       "text_words": 7
     },
     {
-      "id": 506,
+      "id": 500,
       "audio": "SPEAKER_00/0255_07367.32-07372.55.wav",
       "filename": "0255_07367.32-07372.55.wav",
       "speaker": "SPEAKER_00",
@@ -8632,7 +8530,7 @@
       "text_words": 7
     },
     {
-      "id": 507,
+      "id": 501,
       "audio": "SPEAKER_01/0252_07373.22-07397.60.wav",
       "filename": "0252_07373.22-07397.60.wav",
       "speaker": "SPEAKER_01",
@@ -8649,7 +8547,7 @@
       "text_words": 66
     },
     {
-      "id": 508,
+      "id": 502,
       "audio": "SPEAKER_00/0256_07397.60-07406.27.wav",
       "filename": "0256_07397.60-07406.27.wav",
       "speaker": "SPEAKER_00",
@@ -8666,7 +8564,7 @@
       "text_words": 26
     },
     {
-      "id": 509,
+      "id": 503,
       "audio": "SPEAKER_01/0253_07406.92-07409.98.wav",
       "filename": "0253_07406.92-07409.98.wav",
       "speaker": "SPEAKER_01",
