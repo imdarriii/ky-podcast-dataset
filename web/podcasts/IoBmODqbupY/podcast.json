@@ -12,20 +12,20 @@
   "bit_depth": 16,
   "num_speakers": 2,
   "num_clips": 130,
-  "duration_sec": 6900.39,
-  "duration_ms": 6900390,
+  "duration_sec": 6892.49,
+  "duration_ms": 6892490,
   "text_chars": 80463,
   "text_words": 12132,
   "speakers": [
     {
       "speaker": "SPEAKER_00",
       "num_clips": 67,
-      "duration_sec": 5740.05
+      "duration_sec": 5735.09
     },
     {
       "speaker": "SPEAKER_01",
       "num_clips": 63,
-      "duration_sec": 1160.34
+      "duration_sec": 1157.4
     }
   ],
   "clips": [
@@ -196,23 +196,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 28.88,
       "end_sec": 31.88,
-      "duration_sec": 3.0,
-      "duration_ms": 3000,
+      "duration_sec": 2.88,
+      "duration_ms": 2880,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 264644,
+      "file_bytes": 254060,
       "text": "энелер мектеби деген нерсени көп айтасыз да",
       "text_chars": 43,
       "text_words": 7,
-      "overlap": true,
-      "overlap_sec": 0.12,
-      "overlap_ranges": [
-        [
-          31.76,
-          31.92
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.12
     },
     {
       "id": 10,
@@ -221,23 +217,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 31.88,
       "end_sec": 36.38,
-      "duration_sec": 4.5,
-      "duration_ms": 4500,
+      "duration_sec": 4.46,
+      "duration_ms": 4460,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 396944,
+      "file_bytes": 393416,
       "text": "энеси жакшынын баары баласы жакшы атасы жакшынын бир баласы жакшы",
       "text_chars": 65,
       "text_words": 10,
-      "overlap": true,
-      "overlap_sec": 0.04,
-      "overlap_ranges": [
-        [
-          31.76,
-          31.92
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.04
     },
     {
       "id": 11,
@@ -470,47 +462,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 255.69,
       "end_sec": 444.69,
-      "duration_sec": 189.0,
-      "duration_ms": 189000,
+      "duration_sec": 188.069,
+      "duration_ms": 188069,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 16670286,
+      "file_bytes": 16587728,
       "text": "рахмат алгач ушу чакырып бизди ушу эме берүүгө уюштурганыңыз үчүн эрнис сизге рахмат ананр мына көрүүчүлөргө дагы убактыңыздарды бөлүп атайын таанышып көрүп атканыңарга эми баягы сурооңузга түз эле жоопко өтөлү анда кудайга шүгүр ушу сиз айтмакчы мугалимдер көп ылайым эле дагы көбөйсүн мугалимдердин кадыр баркы мындай жасалма эмес чындыгында болсун анан жана анын ичиден дагы мындай мен жаштарга айтайын ой бөлүшөйүн тажрыйба бөлүшөйүн дегендери чыгып жатат аларга деле рахмат анан эми ошолордун мүмкүн бир катарында анча мынча идея ой пикир менен туура айтасыз ошо ютуб башка чыгып турабыз бул дагы бир маселени туура койдум мындай өзү адамдын табигаты үйрөткөндү жактырбайт экен да бирөө үйрөтсө жаш баладан баштап бирдекени өзүм жейм өзүм кылам дейт балдар делечи а чоңоюп калгандан кийин албетте анчейин деле жактырбайт да бирок мен азыр бир жаңы китебимди жазып жатамын үйрөнүү маданияты деген үйрөнүү маданияты деген бул өзү чоң искусство чоң маданият экен эми сүйлөсөк мына бүгүнкү азыр баарлашуубуз дагын буга чейин башкалары дагы мен кудайга шүгүр мына эл арасында азыр акыркы беш он жыл ичинде кыргызстандын жети дубаны нарын талас ысык көл жалал абад чүй алды төр беш жолудан чакырып барып аудитория чоң беш жүз миң миңден ашык адам катышкан аудиторияда оюм сүйлөп атам бир нерсеге мындай маани бери берүүсүн талап кылам мен үйрөтөм деп сүйлөбөйм акыл айтам деп сүйлөбөйм мындай ой бөлүшөм пикир алмашам деп сүйлөйм анткени ошол аудиториянын ичинде мүмкүн бизге караганда он эсе күчтүү адамдар отурат анан анткени менен көптү билсең да элден көптү билбейсиң деген мындай сөздү эске алыш керек да ушул ток этери бүгүнкү сухбатыбыз дагы үйрөтүү сиз өтө туура мындай логикалык басымды койдуңуз үйрөтүү максатыда эмес ой бөлүшүү пикир алмашуу максатыда болот деп ойлойм",
       "text_chars": 1778,
       "text_words": 273,
-      "overlap": true,
-      "overlap_sec": 0.88,
-      "overlap_ranges": [
-        [
-          270.48,
-          270.56
-        ],
-        [
-          272.48,
-          272.56
-        ],
-        [
-          274.8,
-          274.88
-        ],
-        [
-          279.68,
-          279.76
-        ],
-        [
-          295.92,
-          296.16
-        ],
-        [
-          297.36,
-          297.52
-        ],
-        [
-          299.04,
-          299.2
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.88
     },
     {
       "id": 22,
@@ -706,23 +670,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 1137.41,
       "end_sec": 1149.41,
-      "duration_sec": 12.0,
-      "duration_ms": 12000,
+      "duration_sec": 11.832,
+      "duration_ms": 11832,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 1058444,
+      "file_bytes": 1043626,
       "text": "капа болуп таарынып калат да кызым ке кыргызча сүйлөшөлү деп коем да анан бир аз сүйлөп туруп дагы мындай тартып кетет окшойт ошо эми ушу сөз дагы мындай элге маани берсе кыргыз тилин капа кылбайлычы",
       "text_chars": 199,
       "text_words": 35,
-      "overlap": true,
-      "overlap_sec": 0.16,
-      "overlap_ranges": [
-        [
-          1140.72,
-          1140.88
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.16
     },
     {
       "id": 31,
@@ -951,27 +911,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 1901.72,
       "end_sec": 1903.97,
-      "duration_sec": 2.25,
-      "duration_ms": 2250,
+      "duration_sec": 1.994,
+      "duration_ms": 1994,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 198494,
+      "file_bytes": 175914,
       "text": "мүмкүнбүооба ооба мейли мейли п",
       "text_chars": 31,
       "text_words": 5,
-      "overlap": true,
-      "overlap_sec": 0.24,
-      "overlap_ranges": [
-        [
-          1902.48,
-          1902.56
-        ],
-        [
-          1903.36,
-          1903.52
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.24
     },
     {
       "id": 40,
@@ -980,23 +932,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 1905.47,
       "end_sec": 1906.97,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
+      "duration_sec": 1.172,
+      "duration_ms": 1172,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 132344,
+      "file_bytes": 103414,
       "text": "бұл өзі да табиғий передача болот",
       "text_chars": 33,
       "text_words": 6,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          1905.6,
-          1905.92
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 41,
@@ -1079,23 +1027,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 1985.3,
       "end_sec": 2023.51,
-      "duration_sec": 38.21,
-      "duration_ms": 38210,
+      "duration_sec": 37.9,
+      "duration_ms": 37900,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 3369724,
+      "file_bytes": 3342824,
       "text": "энеси жакшынын баары баласы жакшы атасы жакшынын бир баласы жакшы бул деген сөз энеден өтө көп нерсе көз каранды ошого анан экинчиси эми эркектер ансыз деле өзүбүздү мындай орусча не даст в обиду дейт өзүбүздү ансыз деле кемсинтпейбиз бирок аял затынын шаанини баркын көтөрөйүнде мен эне мектеби деп атап койгонмун ал үчүн деле аябай сын угам эмнеге ата мектеби эмес ой эне деген ата деген ата деген эне деген илайым бирге болсун кошо карысын э ошондой анан мына китебимдин атын ата эне",
       "text_chars": 486,
       "text_words": 82,
-      "overlap": true,
-      "overlap_sec": 0.31,
-      "overlap_ranges": [
-        [
-          2023.2,
-          2024.0
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.31
     },
     {
       "id": 44,
@@ -1253,27 +1197,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 2346.25,
       "end_sec": 2348.12,
-      "duration_sec": 1.87,
-      "duration_ms": 1870,
+      "duration_sec": 1.662,
+      "duration_ms": 1662,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 165418,
+      "file_bytes": 146632,
       "text": "туурабы жокпу туура туура",
       "text_chars": 25,
       "text_words": 4,
-      "overlap": true,
-      "overlap_sec": 0.2,
-      "overlap_ranges": [
-        [
-          2347.12,
-          2347.2
-        ],
-        [
-          2348.0,
-          2348.4
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.2
     },
     {
       "id": 52,
@@ -1282,23 +1218,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 2348.12,
       "end_sec": 2414.47,
-      "duration_sec": 66.35,
-      "duration_ms": 66350,
+      "duration_sec": 66.065,
+      "duration_ms": 66065,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 5851672,
+      "file_bytes": 5826976,
       "text": "атартат этнопедагогикада бар бул  мен ойлоп тапканым мен бар болгону казып керек жерге алып келип атам казып турупчу и ошол үчүн мына азыр үч аргумент келтирдик үч багыттан үч булактан ошол үчүн эне мектеби деген эми эне мектебиде эмнелер окутат бир экио ошого айталы баягы сиз айтканга ошол жооп берет урматтуулар эми эне мектебин оуа эне мектеби болуш үчүн алгач энелерди окутуш керек бул жаңылыгы ушул бул энелерди бала тарбиясыга окутуш керек бул эне мектебиде мынанда бала бойго бүткөндөн баштап баланы ошо тарбияны баштап анан он сегиз жашка чейинки кайсы жаш возрастнойс особеннось дейт жаш курагынын өзгөчөлүгүн эске алып тарбиялап баруунун методдору сырларыэне эрнис сиз журналистикага окудуңуз бирөө дарыгерликке окуйт бирөө инженерликке мен мугалимдикке окудум ата энеликке ким окуйт",
       "text_chars": 794,
       "text_words": 119,
-      "overlap": true,
-      "overlap_sec": 0.28,
-      "overlap_ranges": [
-        [
-          2348.0,
-          2348.4
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.28
     },
     {
       "id": 53,
@@ -1307,23 +1239,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 2415.45,
       "end_sec": 2416.57,
-      "duration_sec": 1.12,
-      "duration_ms": 1120,
+      "duration_sec": 0.79,
+      "duration_ms": 790,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 99270,
+      "file_bytes": 69722,
       "text": "туруу жокпу туура",
       "text_chars": 17,
       "text_words": 3,
-      "overlap": true,
-      "overlap_sec": 0.33,
-      "overlap_ranges": [
-        [
-          2416.24,
-          2416.96
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.33
     },
     {
       "id": 54,
@@ -1332,23 +1260,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 2416.57,
       "end_sec": 2491.09,
-      "duration_sec": 74.52,
-      "duration_ms": 74520,
+      "duration_sec": 74.13,
+      "duration_ms": 74130,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 6572708,
+      "file_bytes": 6538310,
       "text": "дүйнөлүк кесиптердин башаты ата эне бирок парадокс азыр мына сингапурда парадокстор менен окуткула деп атат бул жаман эмес эң жакшы бирок биздин токсон жетинчи жылы чыккан китебибизде парадокстор аркылуу окуткула билимди жөн эле чогултпагыла билимди билим алуу үчүн пайдалангыла билимди проблеманы чечүү үчүн пайдалангыла деп жазган экенбиз парадоксту карасаңыз бул ошо энелер эгер бала тарбиясыга окутулбагандыгы үчүн анан көп проблема пайда болуп атат да эми мен айтпайм энелер тарбиялашты билбейсиңер деп жок кээ бирөөлөр айтат мына эмизип чоңойтуп кийинтирип жатабыз эй ол тарбиянын токсон тогуздун бири гана анын жан дүйнөсү каякта анын психологиясы каякта и ошол үчүн мен айтамын эгер мүмкүн болсо бир сунуш бердим эле эрнис сиз да колдойсузбу ушу үй бүлө куруштан илгери бир бир үй бүлө курам деген кыздарды балдарды ушу бир курстан өткөзүш керек деп",
       "text_chars": 857,
       "text_words": 129,
-      "overlap": true,
-      "overlap_sec": 0.39,
-      "overlap_ranges": [
-        [
-          2416.24,
-          2416.96
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.39
     },
     {
       "id": 55,
@@ -1357,23 +1281,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 2491.84,
       "end_sec": 2494.09,
-      "duration_sec": 2.25,
-      "duration_ms": 2250,
+      "duration_sec": 1.922,
+      "duration_ms": 1922,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 198494,
+      "file_bytes": 169564,
       "text": "эң туура анан бир сертификат берсе",
       "text_chars": 34,
       "text_words": 6,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          2492.32,
-          2492.64
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 56,
@@ -1502,23 +1422,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 2561.28,
       "end_sec": 2562.78,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
+      "duration_sec": 1.12,
+      "duration_ms": 1120,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 132344,
+      "file_bytes": 98828,
       "text": "үүм кызып атат десе дагы башка",
       "text_chars": 30,
       "text_words": 6,
-      "overlap": true,
-      "overlap_sec": 0.38,
-      "overlap_ranges": [
-        [
-          2562.4,
-          2564.24
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.38
     },
     {
       "id": 61,
@@ -1552,23 +1468,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 2564.28,
       "end_sec": 2568.03,
-      "duration_sec": 3.75,
-      "duration_ms": 3750,
+      "duration_sec": 3.4,
+      "duration_ms": 3400,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 330794,
+      "file_bytes": 299924,
       "text": "арааным ачылып кетти тамактарды көрүп десең дагы болбойт",
       "text_chars": 56,
       "text_words": 8,
-      "overlap": true,
-      "overlap_sec": 0.35,
-      "overlap_ranges": [
-        [
-          2567.68,
-          2568.4
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.35
     },
     {
       "id": 63,
@@ -1631,23 +1543,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 2588.28,
       "end_sec": 2592.03,
-      "duration_sec": 3.75,
-      "duration_ms": 3750,
+      "duration_sec": 3.72,
+      "duration_ms": 3720,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 330794,
+      "file_bytes": 328148,
       "text": "бир сөз менен да азыр сиз айткандай эле жакшы каалап кетти",
       "text_chars": 58,
       "text_words": 11,
-      "overlap": true,
-      "overlap_sec": 0.03,
-      "overlap_ranges": [
-        [
-          2592.0,
-          2593.28
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.03
     },
     {
       "id": 66,
@@ -1767,23 +1675,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 2738.07,
       "end_sec": 2761.07,
-      "duration_sec": 23.0,
-      "duration_ms": 23000,
+      "duration_sec": 22.832,
+      "duration_ms": 22832,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 2028644,
+      "file_bytes": 2013826,
       "text": "туура айтасыз эми сиз айткан улууларга башкаларга деген ата энесиге деле карама каршы коюп койгон учурлар болуп атат ата эненин дагы менин жеке турмушума кийлигишпеңиз ооба менин телефонумду ачпаңыз мага үйрөтпөңүз менин өзүмдүн укугум дегендей да бул чоң жаңылыштык эмес",
       "text_chars": 271,
       "text_words": 40,
-      "overlap": true,
-      "overlap_sec": 0.16,
-      "overlap_ranges": [
-        [
-          2753.28,
-          2753.44
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.16
     },
     {
       "id": 70,
@@ -1866,23 +1770,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 2915.91,
       "end_sec": 2923.41,
-      "duration_sec": 7.5,
-      "duration_ms": 7500,
+      "duration_sec": 7.252,
+      "duration_ms": 7252,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 661544,
+      "file_bytes": 639670,
       "text": "тарбиянын баалуулугу да өзүнчө схемалар кадимкидей муну менимче кадимкидей окутуп үйрөтүш керек",
       "text_chars": 95,
       "text_words": 12,
-      "overlap": true,
-      "overlap_sec": 0.24,
-      "overlap_ranges": [
-        [
-          2921.52,
-          2921.76
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.24
     },
     {
       "id": 73,
@@ -1960,23 +1860,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 3110.55,
       "end_sec": 3112.05,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
+      "duration_sec": 1.37,
+      "duration_ms": 1370,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 132344,
+      "file_bytes": 120878,
       "text": "ага убакытым жок дейдт да",
       "text_chars": 25,
       "text_words": 5,
-      "overlap": true,
-      "overlap_sec": 0.13,
-      "overlap_ranges": [
-        [
-          3111.92,
-          3113.68
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.13
     },
     {
       "id": 77,
@@ -2259,23 +2155,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 3894.16,
       "end_sec": 3904.78,
-      "duration_sec": 10.62,
-      "duration_ms": 10620,
+      "duration_sec": 10.3,
+      "duration_ms": 10300,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 936728,
+      "file_bytes": 908504,
       "text": "лчи анча дүйнөнү эмне кылабыз эй мен кээде тамашалап айтсам баары күлөт пулду көп топтоп алып анан эмне кылабыз ана эмне кылабыз дегендей да",
       "text_chars": 140,
       "text_words": 24,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          3893.84,
-          3894.48
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 84,
@@ -2284,23 +2176,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 3904.78,
       "end_sec": 3907.78,
-      "duration_sec": 3.0,
-      "duration_ms": 3000,
+      "duration_sec": 2.9,
+      "duration_ms": 2900,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 264644,
+      "file_bytes": 255824,
       "text": "жетет да кичине эле нерсе жетет адамга",
       "text_chars": 38,
       "text_words": 7,
-      "overlap": true,
-      "overlap_sec": 0.1,
-      "overlap_ranges": [
-        [
-          3907.68,
-          3908.08
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.1
     },
     {
       "id": 85,
@@ -2309,23 +2197,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 3907.78,
       "end_sec": 3979.97,
-      "duration_sec": 72.19,
-      "duration_ms": 72190,
+      "duration_sec": 71.88,
+      "duration_ms": 71880,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 6366320,
+      "file_bytes": 6339860,
       "text": "элнерсе жетет да мынчалык эле мындай өзү чыгыштын философиясыда өтө сонун ойлор бар экен да ошо эме ким жусуп баласагын махмуд кашкари андан илгери келсек эгер ал фарабий имам газзали ошолордо бир бар сөз бар экен да мындай деп байлык деп атак даңк деп азырча айтканда имидж деп жаныңды азапка салба дептир абийириңди төгүп алба дептир ошого чындыгында убакыт жок деген анан бирөө суроо бериптир сен качан китеп окуйсуң десе айткан экен мен бошогондо китеп окуйм анан ошондой эле муну мындай параллель кылып туруп качан балаңды тарбиялайсың бошогондо тарбиялайм деген анда сен тарбиялабайт экенсиң китеп окубайт экенсиң дегендей баягы каалаган жол табат каалабаган шылтоо табат дегендей чындап кааласа эгер баласын тарбиялашка убакыт табат канчалык э андай дейсиз да рнисэй анан кудай той болсун баарыбызды тойго жеткирсин жети саат отурабыз го жетинчи тамак кегиче ыя туурабы жокпу",
       "text_chars": 882,
       "text_words": 136,
-      "overlap": true,
-      "overlap_sec": 0.3,
-      "overlap_ranges": [
-        [
-          3907.68,
-          3908.08
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.3
     },
     {
       "id": 86,
@@ -2412,23 +2296,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 4429.18,
       "end_sec": 4523.02,
-      "duration_sec": 93.84,
-      "duration_ms": 93840,
+      "duration_sec": 93.517,
+      "duration_ms": 93517,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 8277172,
+      "file_bytes": 8248242,
       "text": "сегизинчи сүрө отуз үчүнчү аятпы ушундай алмаштырсам кечирим сурайм экинчиси англиялык философ теккери деген болот сиз аларды жакшы билесиз ошонун мындай деген сөзүн ошол китепте экөөнү эпиграф кылып алганмын аракеттен адат адаттан мүнөз мүнөздөн тагдыр жаралат карасаңыз кандай курч сөзда кифтестенция ошону менен көп нерсе айтылган биз ошол аракет бул өзүн өзү тарбиялоо ошонон адат адаттан мүнөз мүнөздөн анан тагдыр жаралат экен да ошого биз балдарды сиз өтө туура суроо бердиңиз iйтини үйгөтүүгө англис тилин үйрөтүүгө кандай маани берсек ошондой эле өзүн өзүтр бялоого маани беришибиз керек бул өтө актуалдуу чоң маселе азыр китебин жаздык мына сиз айттыңыз эне мектеби жайылып азыр баары анча мынча эме кылып атат туура жети областка жайылды эме болуп атат акыл эмгек маданиятыга үйрөтпөсөк биз сингапурдун финляндиянын европанын американын жакшы методдору менен биргеликте балдарыбыздын акыл жөндөмүн ошол методдор аркылуу анан этнопедагогикага таянып үйрөтпөсөк дагы биз артта калабыз бирок баарыдан дагы кооптуусу эгер биз балдарыбызды өзүн өзү тарбиялоого үйрөтпөсөк бул өтө чоң катаалыкка жол берип коебуз",
       "text_chars": 1117,
       "text_words": 160,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          4431.52,
-          4431.84
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 90,
@@ -2437,23 +2317,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 4523.02,
       "end_sec": 4558.27,
-      "duration_sec": 35.25,
-      "duration_ms": 35250,
+      "duration_sec": 34.922,
+      "duration_ms": 34922,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 3109094,
+      "file_bytes": 3080164,
       "text": "негизи мындай жалпылай караганда эки буттуу эки колдуу бир баштуу адамдын баары эле адам деп эсептелингени менен бизде такай мындай суроо болот канткенде адам адам болот депчи анан ушул сиздин сунуштап аткан тарбия маселесинде жаштарды адамгерчиликке үйрөтүү мындай орусча айткан одолжение кылбай ушунун мага пайдасы болсо анан ганаы кыймылдаймын дедиртпей адамгерчиликтүү болууга биз жаштарды канткенди үйрөтөбүз",
       "text_chars": 413,
       "text_words": 56,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          4552.72,
-          4553.04
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 91,
@@ -2523,23 +2399,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 5146.44,
       "end_sec": 5149.44,
-      "duration_sec": 3.0,
-      "duration_ms": 3000,
+      "duration_sec": 2.92,
+      "duration_ms": 2920,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 264644,
+      "file_bytes": 257588,
       "text": "эч кандай бир эми пайда күтпөй",
       "text_chars": 30,
       "text_words": 6,
-      "overlap": true,
-      "overlap_sec": 0.08,
-      "overlap_ranges": [
-        [
-          5149.36,
-          5151.6
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.08
     },
     {
       "id": 94,
@@ -2746,23 +2618,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 5676.6,
       "end_sec": 5678.1,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
+      "duration_sec": 1.14,
+      "duration_ms": 1140,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 132344,
+      "file_bytes": 100592,
       "text": "анан карасаңы мына б",
       "text_chars": 20,
       "text_words": 4,
-      "overlap": true,
-      "overlap_sec": 0.36,
-      "overlap_ranges": [
-        [
-          5675.92,
-          5676.96
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.36
     },
     {
       "id": 101,
@@ -3408,23 +3276,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 6839.03,
       "end_sec": 6841.65,
-      "duration_sec": 2.62,
-      "duration_ms": 2620,
+      "duration_sec": 2.457,
+      "duration_ms": 2457,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 231568,
+      "file_bytes": 216750,
       "text": "ушунубу ооба жок бул жетекч",
       "text_chars": 27,
       "text_words": 5,
-      "overlap": true,
-      "overlap_sec": 0.16,
-      "overlap_ranges": [
-        [
-          6839.28,
-          6839.44
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.16
     },
     {
       "id": 119,
@@ -3632,27 +3496,19 @@
       "speaker": "SPEAKER_00",
       "start_sec": 6861.15,
       "end_sec": 6870.9,
-      "duration_sec": 9.75,
-      "duration_ms": 9750,
+      "duration_sec": 9.414,
+      "duration_ms": 9414,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 859994,
+      "file_bytes": 830358,
       "text": "анда мен китепти тапшырып атканда дайым кудай деп жакшы тилек айтып туруп кол коем да эрнис келиндин аты ким",
       "text_chars": 108,
       "text_words": 19,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          6867.52,
-          6867.68
-        ],
-        [
-          6867.92,
-          6868.08
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     },
     {
       "id": 127,
@@ -3661,23 +3517,19 @@
       "speaker": "SPEAKER_01",
       "start_sec": 6870.9,
       "end_sec": 6872.4,
-      "duration_sec": 1.5,
-      "duration_ms": 1500,
+      "duration_sec": 1.252,
+      "duration_ms": 1252,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 132344,
+      "file_bytes": 110470,
       "text": "тары гүл",
       "text_chars": 8,
       "text_words": 2,
-      "overlap": true,
-      "overlap_sec": 0.24,
-      "overlap_ranges": [
-        [
-          6871.2,
-          6871.44
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.24
     },
     {
       "id": 128,
@@ -3768,30 +3620,25 @@
       "speaker": "SPEAKER_00",
       "start_sec": 6944.35,
       "end_sec": 6947.8,
-      "duration_sec": 3.45,
-      "duration_ms": 3450,
+      "duration_sec": 3.119,
+      "duration_ms": 3119,
       "sample_rate": 44100,
       "channels": 1,
       "bit_depth": 16,
-      "file_bytes": 304776,
+      "file_bytes": 275140,
       "text": "ийгилик рахмат сизге эсен болуңуздар рахмат",
       "text_chars": 43,
       "text_words": 6,
-      "overlap": true,
-      "overlap_sec": 0.32,
-      "overlap_ranges": [
-        [
-          6945.6,
-          6945.84
-        ],
-        [
-          6946.24,
-          6946.32
-        ]
-      ]
+      "overlap": false,
+      "overlap_sec": 0.0,
+      "overlap_ranges": [],
+      "overlap_trimmed_sec": 0.32
     }
   ],
-  "overlap_clips": 93,
-  "overlap_total_sec": 139.38,
-  "overlap_method": "sortformer-4spk-v1 (90s non-overlapping chunks, min 0.08s)"
+  "overlap_clips": 64,
+  "overlap_total_sec": 131.66,
+  "overlap_method": "sortformer-4spk-v1 (90s non-overlapping chunks, min 0.08s)",
+  "overlap_trim_threshold_sec": 0.4,
+  "overlap_trimmed_clips": 29,
+  "overlap_trimmed_sec": 7.72
 }
