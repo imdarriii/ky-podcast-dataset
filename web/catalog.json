@@ -232,6 +232,27 @@
       },
       "num_clips": 291,
       "blurb": "291 реплик · 2 спикера · 1.8 ч"
+    },
+    {
+      "id": "rNuGrxDm_kE",
+      "title": "\"Жаратмандын\" автору парламентке барабы? Же Урмат Насыкулов кантип коомду   өзгөрткүсү келет?..",
+      "youtube_url": "https://youtu.be/rNuGrxDm_kE",
+      "json": "./podcasts/rNuGrxDm_kE/podcast.json",
+      "audio_prefix": "./podcasts/rNuGrxDm_kE/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 177,
+      "blurb": "177 реплик · 2 спикера · 0.9 ч"
     }
   ]
 }
