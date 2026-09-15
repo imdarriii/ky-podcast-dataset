@@ -295,6 +295,27 @@
       },
       "num_clips": 29,
       "blurb": "29 реплик · 2 спикера · 0.2 ч"
+    },
+    {
+      "id": "FJYyFuSygsE",
+      "title": "Кошоматчылар менен бакубат өлкө курулбайт | Венера Сайпидин | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/FJYyFuSygsE",
+      "json": "./podcasts/FJYyFuSygsE/podcast.json",
+      "audio_prefix": "./podcasts/FJYyFuSygsE/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 235,
+      "blurb": "235 реплик · 2 спикера · 1.6 ч"
     }
   ]
 }
