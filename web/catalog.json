@@ -316,6 +316,27 @@
       },
       "num_clips": 235,
       "blurb": "235 реплик · 2 спикера · 1.6 ч"
+    },
+    {
+      "id": "BnmyLNVdhUM",
+      "title": "\"Шорпочу\" Жаныбек Алыкуловдун уулу | Манас Алыкулов | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/BnmyLNVdhUM",
+      "json": "./podcasts/BnmyLNVdhUM/podcast.json",
+      "audio_prefix": "./podcasts/BnmyLNVdhUM/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 241,
+      "blurb": "241 реплик · 2 спикера · 0.6 ч"
     }
   ]
 }
