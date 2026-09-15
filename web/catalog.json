@@ -64,6 +64,153 @@
       },
       "num_clips": 130,
       "blurb": "130 реплик · 2 спикера · 1.9 ч"
+    },
+    {
+      "id": "3PSr2YZOafY",
+      "title": "Инвесторлор кайсы бизнести тандайт? | Чолпонбек Жумашүкүров | Накта Подкаст",
+      "youtube_url": "https://youtu.be/3PSr2YZOafY",
+      "json": "./podcasts/3PSr2YZOafY/podcast.json",
+      "audio_prefix": "./podcasts/3PSr2YZOafY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 248,
+      "blurb": "248 реплик · 2 спикера · 2.2 ч"
+    },
+    {
+      "id": "mI3Znjx01AE",
+      "title": "Комфорт бар, бирок рухий тазалык жоголууда.. | Турганбай Абдулвахид уулу | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/mI3Znjx01AE",
+      "json": "./podcasts/mI3Znjx01AE/podcast.json",
+      "audio_prefix": "./podcasts/mI3Znjx01AE/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 133,
+      "blurb": "133 реплик · 2 спикера · 0.7 ч"
+    },
+    {
+      "id": "hKH_CL68aUo",
+      "title": "Айымдар токтоосуз өнүгүүнүн үстүндө болушу керек! КАУХАР подкаст. #8-чыгарылыш",
+      "youtube_url": "https://youtu.be/hKH_CL68aUo",
+      "json": "./podcasts/hKH_CL68aUo/podcast.json",
+      "audio_prefix": "./podcasts/hKH_CL68aUo/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 195,
+      "blurb": "195 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "VZZYNRP3LJw",
+      "title": "Карыз, стресс, оорулар… Баары дем алуудан башталабы?| Дем алуу практик Алтынбек Сулайманов",
+      "youtube_url": "https://youtu.be/VZZYNRP3LJw",
+      "json": "./podcasts/VZZYNRP3LJw/podcast.json",
+      "audio_prefix": "./podcasts/VZZYNRP3LJw/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 67,
+      "blurb": "67 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "b2yxHixcEbM",
+      "title": "БАЙЛЫКТЫН СЫРЫ ЭМНЕДЕ?! 6млн сом, батир жана YouTube: эмне үчүн кымбат белектерди берем#ютуб#подкаст",
+      "youtube_url": "https://youtu.be/b2yxHixcEbM",
+      "json": "./podcasts/b2yxHixcEbM/podcast.json",
+      "audio_prefix": "./podcasts/b2yxHixcEbM/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 156,
+      "blurb": "156 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "Ntyy3LzFVqc",
+      "title": "Жан дүйнөңүз эмнеге ооруйт? Ислам психологунун жообу | Чолпон Асанбекова | Nóur Podcast",
+      "youtube_url": "https://youtu.be/Ntyy3LzFVqc",
+      "json": "./podcasts/Ntyy3LzFVqc/podcast.json",
+      "audio_prefix": "./podcasts/Ntyy3LzFVqc/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 206,
+      "blurb": "206 реплик · 2 спикера · 1.8 ч"
+    },
+    {
+      "id": "N1dVZ4_7mTk",
+      "title": "Сүйүү бул алуу эмес, берүү!  КАУХАР подкаст #10-чыгарылыш Урмат Усенов",
+      "youtube_url": "https://youtu.be/N1dVZ4_7mTk",
+      "json": "./podcasts/N1dVZ4_7mTk/podcast.json",
+      "audio_prefix": "./podcasts/N1dVZ4_7mTk/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 102,
+      "blurb": "102 реплик · 2 спикера · 0.9 ч"
     }
   ]
 }
