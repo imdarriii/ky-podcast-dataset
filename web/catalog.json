@@ -253,6 +253,48 @@
       },
       "num_clips": 177,
       "blurb": "177 реплик · 2 спикера · 0.9 ч"
+    },
+    {
+      "id": "WHGy4Owy5SY",
+      "title": "Байсаловдун президенттин жетишкендиги жана кемчилиги, АКШ менен алака тууралуу маеги",
+      "youtube_url": "https://youtu.be/WHGy4Owy5SY",
+      "json": "./podcasts/WHGy4Owy5SY/podcast.json",
+      "audio_prefix": "./podcasts/WHGy4Owy5SY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 41,
+      "blurb": "41 реплик · 2 спикера · 0.4 ч"
+    },
+    {
+      "id": "km_tx4Ke9uc",
+      "title": "Жаңы окуу жылы башталды! Өлкөдө жалпы билим берүү сапаты жогорулайт.",
+      "youtube_url": "https://youtu.be/km_tx4Ke9uc",
+      "json": "./podcasts/km_tx4Ke9uc/podcast.json",
+      "audio_prefix": "./podcasts/km_tx4Ke9uc/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 29,
+      "blurb": "29 реплик · 2 спикера · 0.2 ч"
     }
   ]
 }
