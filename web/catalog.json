@@ -211,6 +211,27 @@
       },
       "num_clips": 102,
       "blurb": "102 реплик · 2 спикера · 0.9 ч"
+    },
+    {
+      "id": "0QSvacqxnN0",
+      "title": "Мубарак кантип башталган? / Азамат Аматов / Жаратман подкаст",
+      "youtube_url": "https://youtu.be/0QSvacqxnN0",
+      "json": "./podcasts/0QSvacqxnN0/podcast.json",
+      "audio_prefix": "./podcasts/0QSvacqxnN0/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 291,
+      "blurb": "291 реплик · 2 спикера · 1.8 ч"
     }
   ]
 }
