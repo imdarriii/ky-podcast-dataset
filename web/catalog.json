@@ -547,6 +547,27 @@
       },
       "num_clips": 7,
       "blurb": "7 реплик · 1 спикера · 0.0 ч"
+    },
+    {
+      "id": "yQzpHMUXEY8",
+      "title": "Көздү май басат деген ушул экен да! - дейт Эрмек Тынай уулу / Береке Подкаст",
+      "youtube_url": "https://youtu.be/yQzpHMUXEY8",
+      "json": "./podcasts/yQzpHMUXEY8/podcast.json",
+      "audio_prefix": "./podcasts/yQzpHMUXEY8/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 143,
+      "blurb": "143 реплик · 2 спикера · 1.2 ч"
     }
   ]
 }
