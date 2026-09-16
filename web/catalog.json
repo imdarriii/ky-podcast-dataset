@@ -589,6 +589,27 @@
       },
       "num_clips": 275,
       "blurb": "275 реплик · 2 спикера · 1.4 ч"
+    },
+    {
+      "id": "9mnktW6BV5I",
+      "title": "Жакшылык Матанов:Балдарды эмнеге  окута албай жатабыз? Билим берүүнүн жыйынтыгына ким жооптуу?..",
+      "youtube_url": "https://youtu.be/9mnktW6BV5I",
+      "json": "./podcasts/9mnktW6BV5I/podcast.json",
+      "audio_prefix": "./podcasts/9mnktW6BV5I/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 126,
+      "blurb": "126 реплик · 2 спикера · 0.5 ч"
     }
   ]
 }
