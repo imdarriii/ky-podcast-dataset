@@ -358,6 +358,27 @@
       },
       "num_clips": 209,
       "blurb": "209 реплик · 2 спикера · 1.3 ч"
+    },
+    {
+      "id": "D1lodjSddFY",
+      "title": "Акыл адамдын элчиси… 5-чыгарылыш. КАУХАР подкаст!",
+      "youtube_url": "https://youtu.be/D1lodjSddFY",
+      "json": "./podcasts/D1lodjSddFY/podcast.json",
+      "audio_prefix": "./podcasts/D1lodjSddFY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 165,
+      "blurb": "165 реплик · 2 спикера · 0.8 ч"
     }
   ]
 }
