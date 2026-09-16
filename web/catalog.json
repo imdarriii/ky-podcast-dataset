@@ -463,6 +463,32 @@
       },
       "num_clips": 33,
       "blurb": "33 реплик · 2 спикера · 0.2 ч"
+    },
+    {
+      "id": "DeeIxVx2GW8",
+      "title": "Эльнура Сатыбалдиева: акыркы жылдары аракечтик көбөйүп, жашарды/КӨЛ ТАҢЫ",
+      "youtube_url": "https://youtu.be/DeeIxVx2GW8",
+      "json": "./podcasts/DeeIxVx2GW8/podcast.json",
+      "audio_prefix": "./podcasts/DeeIxVx2GW8/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 109,
+      "blurb": "109 реплик · 3 спикера · 0.2 ч"
     }
   ]
 }
