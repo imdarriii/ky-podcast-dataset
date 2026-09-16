@@ -421,6 +421,27 @@
       },
       "num_clips": 264,
       "blurb": "264 реплик · 2 спикера · 0.9 ч"
+    },
+    {
+      "id": "vGVjy9Pghpk",
+      "title": "Ысык-көл облусунун таланттары жана өнөрпоздору мыкты жыйынтыктарды көргөздү/Көл Таңы",
+      "youtube_url": "https://youtu.be/vGVjy9Pghpk",
+      "json": "./podcasts/vGVjy9Pghpk/podcast.json",
+      "audio_prefix": "./podcasts/vGVjy9Pghpk/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 44,
+      "blurb": "44 реплик · 2 спикера · 0.3 ч"
     }
   ]
 }
