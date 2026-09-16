@@ -442,6 +442,27 @@
       },
       "num_clips": 44,
       "blurb": "44 реплик · 2 спикера · 0.3 ч"
+    },
+    {
+      "id": "ZCBqPn4FJxY",
+      "title": "Көз айнекти туура тандоо/КӨЛ ТАҢЫ",
+      "youtube_url": "https://youtu.be/ZCBqPn4FJxY",
+      "json": "./podcasts/ZCBqPn4FJxY/podcast.json",
+      "audio_prefix": "./podcasts/ZCBqPn4FJxY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 33,
+      "blurb": "33 реплик · 2 спикера · 0.2 ч"
     }
   ]
 }
