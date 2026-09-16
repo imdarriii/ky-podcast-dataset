@@ -568,6 +568,27 @@
       },
       "num_clips": 221,
       "blurb": "221 реплик · 2 спикера · 0.6 ч"
+    },
+    {
+      "id": "E1G8ymSkzfE",
+      "title": "Кудай сага жазылгандан АШЫКЧА БЕРБЕЙТ  | Максат Таласбаев | КанаПодкаст",
+      "youtube_url": "https://youtu.be/E1G8ymSkzfE",
+      "json": "./podcasts/E1G8ymSkzfE/podcast.json",
+      "audio_prefix": "./podcasts/E1G8ymSkzfE/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 275,
+      "blurb": "275 реплик · 2 спикера · 1.4 ч"
     }
   ]
 }
