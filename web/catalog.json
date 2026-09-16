@@ -489,6 +489,27 @@
       },
       "num_clips": 109,
       "blurb": "109 реплик · 3 спикера · 0.2 ч"
+    },
+    {
+      "id": "w7GpErjaPR0",
+      "title": "Балага туура тарбия берүү ата-эненин милдети | Олжобай ажы Алимбеков | Zaman Podcast",
+      "youtube_url": "https://youtu.be/w7GpErjaPR0",
+      "json": "./podcasts/w7GpErjaPR0/podcast.json",
+      "audio_prefix": "./podcasts/w7GpErjaPR0/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 962,
+      "blurb": "962 реплик · 2 спикера · 1.8 ч"
     }
   ]
 }
