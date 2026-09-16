@@ -510,6 +510,43 @@
       },
       "num_clips": 962,
       "blurb": "962 реплик · 2 спикера · 1.8 ч"
+    },
+    {
+      "id": "FWF4Oz2m1Ts",
+      "title": "\"ЖАРДАМ БЕРЕ АЛБАЙ КАЛГАНЫМА ӨКҮНӨМ\"- ДЕЙТ АРГЕН АСАНОВ",
+      "youtube_url": "https://youtu.be/FWF4Oz2m1Ts",
+      "json": "./podcasts/FWF4Oz2m1Ts/podcast.json",
+      "audio_prefix": "./podcasts/FWF4Oz2m1Ts/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 247,
+      "blurb": "247 реплик · 2 спикера · 0.6 ч"
+    },
+    {
+      "id": "Ke1LJ8y2s8o",
+      "title": "\"ДЕПРЕССИЯДАН ЖОЛДОШУМ АЛЫП ЧЫКТЫ\"",
+      "youtube_url": "https://youtu.be/Ke1LJ8y2s8o",
+      "json": "./podcasts/Ke1LJ8y2s8o/podcast.json",
+      "audio_prefix": "./podcasts/Ke1LJ8y2s8o/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 7,
+      "blurb": "7 реплик · 1 спикера · 0.0 ч"
     }
   ]
 }
