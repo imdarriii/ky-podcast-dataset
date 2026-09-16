@@ -337,6 +337,27 @@
       },
       "num_clips": 241,
       "blurb": "241 реплик · 2 спикера · 0.6 ч"
+    },
+    {
+      "id": "B_Mp-iJ7RhY",
+      "title": "Майкл Жексон тирилип келсе ырдатчу аренабыз бар | Санжар Мыкыев | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/B_Mp-iJ7RhY",
+      "json": "./podcasts/B_Mp-iJ7RhY/podcast.json",
+      "audio_prefix": "./podcasts/B_Mp-iJ7RhY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 209,
+      "blurb": "209 реплик · 2 спикера · 1.3 ч"
     }
   ]
 }
