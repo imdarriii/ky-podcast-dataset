@@ -379,6 +379,48 @@
       },
       "num_clips": 165,
       "blurb": "165 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "Uab8LXMoTls",
+      "title": "Арактын эң азы да зыян | Бекзат Болотбек | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/Uab8LXMoTls",
+      "json": "./podcasts/Uab8LXMoTls/podcast.json",
+      "audio_prefix": "./podcasts/Uab8LXMoTls/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 163,
+      "blurb": "163 реплик · 2 спикера · 1.1 ч"
+    },
+    {
+      "id": "nYLh-aL1tXk",
+      "title": "Сыноо — жаза беле же Аллахтын мээрими: чыныгы мааниси | Айжан Акылбекова | Nóur Podcast",
+      "youtube_url": "https://youtu.be/nYLh-aL1tXk",
+      "json": "./podcasts/nYLh-aL1tXk/podcast.json",
+      "audio_prefix": "./podcasts/nYLh-aL1tXk/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 264,
+      "blurb": "264 реплик · 2 спикера · 0.9 ч"
     }
   ]
 }
