@@ -610,6 +610,90 @@
       },
       "num_clips": 126,
       "blurb": "126 реплик · 2 спикера · 0.5 ч"
+    },
+    {
+      "id": "E0JkHDT7YsI",
+      "title": "Үй-бүлө жана акча: эң маанилүү эрежелер | Барчынай Кадырбековна",
+      "youtube_url": "https://youtu.be/E0JkHDT7YsI",
+      "json": "./podcasts/E0JkHDT7YsI/podcast.json",
+      "audio_prefix": "./podcasts/E0JkHDT7YsI/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 146,
+      "blurb": "146 реплик · 2 спикера · 0.6 ч"
+    },
+    {
+      "id": "rQzMSI2nUG4",
+      "title": "Мен эң баалаган нерсе -бул адамгерчилик!Психология, акча, бизнес,  ой-жүгүртүү.Барчынай Кадырбековна",
+      "youtube_url": "https://youtu.be/rQzMSI2nUG4",
+      "json": "./podcasts/rQzMSI2nUG4/podcast.json",
+      "audio_prefix": "./podcasts/rQzMSI2nUG4/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 93,
+      "blurb": "93 реплик · 2 спикера · 0.9 ч"
+    },
+    {
+      "id": "xr07sTLdFsE",
+      "title": "АЯЛДЫК БАКЫТ ЭМНЕДЕ? | Барчынай Кадырбековна #подкаст #психология",
+      "youtube_url": "https://youtu.be/xr07sTLdFsE",
+      "json": "./podcasts/xr07sTLdFsE/podcast.json",
+      "audio_prefix": "./podcasts/xr07sTLdFsE/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 205,
+      "blurb": "205 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "CA3nhnJ3E6E",
+      "title": "“АКШда көчөдө калып кетиш оңой” дейт Эрлан Андашев | Накта Подкаст",
+      "youtube_url": "https://youtu.be/CA3nhnJ3E6E",
+      "json": "./podcasts/CA3nhnJ3E6E/podcast.json",
+      "audio_prefix": "./podcasts/CA3nhnJ3E6E/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 293,
+      "blurb": "293 реплик · 2 спикера · 0.8 ч"
     }
   ]
 }
