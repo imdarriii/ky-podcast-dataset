@@ -512,22 +512,6 @@
       "blurb": "247 реплик · 2 спикера · 0.6 ч"
     },
     {
-      "id": "Ke1LJ8y2s8o",
-      "title": "\"ДЕПРЕССИЯДАН ЖОЛДОШУМ АЛЫП ЧЫКТЫ\"",
-      "youtube_url": "https://youtu.be/Ke1LJ8y2s8o",
-      "json": "./podcasts/Ke1LJ8y2s8o/podcast.json",
-      "audio_prefix": "./podcasts/Ke1LJ8y2s8o/audio/",
-      "speakers": {
-        "SPEAKER_00": {
-          "name": "SPEAKER_00",
-          "role": "Конок",
-          "klass": "guest"
-        }
-      },
-      "num_clips": 7,
-      "blurb": "7 реплик · 1 спикера · 0.0 ч"
-    },
-    {
       "id": "yQzpHMUXEY8",
       "title": "Көздү май басат деген ушул экен да! - дейт Эрмек Тынай уулу / Береке Подкаст",
       "youtube_url": "https://youtu.be/yQzpHMUXEY8",
@@ -694,6 +678,48 @@
       },
       "num_clips": 293,
       "blurb": "293 реплик · 2 спикера · 0.8 ч"
+    },
+    {
+      "id": "Ke1LJ8y2s8o",
+      "title": "\"ДЕПРЕССИЯДАН ЖОЛДОШУМ АЛЫП ЧЫКТЫ\"",
+      "youtube_url": "https://youtu.be/Ke1LJ8y2s8o",
+      "json": "./podcasts/Ke1LJ8y2s8o/podcast.json",
+      "audio_prefix": "./podcasts/Ke1LJ8y2s8o/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 38,
+      "blurb": "38 реплик · 2 спикера · 0.3 ч"
+    },
+    {
+      "id": "-LhflY0WZo8",
+      "title": "Кыргыздар - Түркмөнстан болбойт! | Сыймык Жапыкеев | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/-LhflY0WZo8",
+      "json": "./podcasts/-LhflY0WZo8/podcast.json",
+      "audio_prefix": "./podcasts/-LhflY0WZo8/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 165,
+      "blurb": "165 реплик · 2 спикера · 0.9 ч"
     }
   ]
 }
