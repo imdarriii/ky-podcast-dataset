@@ -720,6 +720,27 @@
       },
       "num_clips": 165,
       "blurb": "165 реплик · 2 спикера · 0.9 ч"
+    },
+    {
+      "id": "cUhuiEYhSzU",
+      "title": "Muras podcast #3 Мурат Жумашев / Кыргыз тил, жасалма интеллект, Chat GTP",
+      "youtube_url": "https://youtu.be/cUhuiEYhSzU",
+      "json": "./podcasts/cUhuiEYhSzU/podcast.json",
+      "audio_prefix": "./podcasts/cUhuiEYhSzU/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 57,
+      "blurb": "57 реплик · 2 спикера · 0.7 ч"
     }
   ]
 }
