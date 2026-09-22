@@ -741,6 +741,27 @@
       },
       "num_clips": 57,
       "blurb": "57 реплик · 2 спикера · 0.7 ч"
+    },
+    {
+      "id": "uPqtWlGe2Ho",
+      "title": "Muras podcast #8 / Гапыр Мадаминов / Мени жөнөкөй шахтёр атам шыктандырды",
+      "youtube_url": "https://youtu.be/uPqtWlGe2Ho",
+      "json": "./podcasts/uPqtWlGe2Ho/podcast.json",
+      "audio_prefix": "./podcasts/uPqtWlGe2Ho/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 41,
+      "blurb": "41 реплик · 2 спикера · 0.7 ч"
     }
   ]
 }
