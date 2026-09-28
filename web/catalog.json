@@ -762,6 +762,414 @@
       },
       "num_clips": 41,
       "blurb": "41 реплик · 2 спикера · 0.7 ч"
+    },
+    {
+      "id": "zCWZf_-9j9I",
+      "title": "Алия Суранова: «Уулдарыма эки башка эне болдум»",
+      "youtube_url": "https://youtu.be/zCWZf_-9j9I",
+      "json": "./podcasts/zCWZf_-9j9I/podcast.json",
+      "audio_prefix": "./podcasts/zCWZf_-9j9I/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 19,
+      "blurb": "19 реплик · 2 спикера · 0.1 ч"
+    },
+    {
+      "id": "hc1QA-aZrI4",
+      "title": "Зомбулук - норма болуп калдыбы? | Наталья Наговицына тууралуу | Илим Карыпбеков | Мирзаматов влог",
+      "youtube_url": "https://youtu.be/hc1QA-aZrI4",
+      "json": "./podcasts/hc1QA-aZrI4/podcast.json",
+      "audio_prefix": "./podcasts/hc1QA-aZrI4/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 108,
+      "blurb": "108 реплик · 2 спикера · 1.1 ч"
+    },
+    {
+      "id": "CEB6zc3d7jk",
+      "title": "Узак өмүрдүн сыры эмнеде? | Нурбек Моңолов | Костюмчан Токтогулов",
+      "youtube_url": "https://youtu.be/CEB6zc3d7jk",
+      "json": "./podcasts/CEB6zc3d7jk/podcast.json",
+      "audio_prefix": "./podcasts/CEB6zc3d7jk/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 77,
+      "blurb": "77 реплик · 2 спикера · 0.5 ч"
+    },
+    {
+      "id": "9hYkdTvIvmo",
+      "title": "Накта Подкасттын автору Нурсейит Анаркулов",
+      "youtube_url": "https://youtu.be/9hYkdTvIvmo",
+      "json": "./podcasts/9hYkdTvIvmo/podcast.json",
+      "audio_prefix": "./podcasts/9hYkdTvIvmo/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 88,
+      "blurb": "88 реплик · 2 спикера · 0.5 ч"
+    },
+    {
+      "id": "mhMfF7OWmCs",
+      "title": "Өлкөнү ким тоноду? Аскар Акаев президент болгону, каталары жана Кыргызстанга кайткысы келгени",
+      "youtube_url": "https://youtu.be/mhMfF7OWmCs",
+      "json": "./podcasts/mhMfF7OWmCs/podcast.json",
+      "audio_prefix": "./podcasts/mhMfF7OWmCs/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 45,
+      "blurb": "45 реплик · 1 спикера · 0.8 ч"
+    },
+    {
+      "id": "1sbK6-7datg",
+      "title": "Бул подкаст дем бергенге жарасын | Freeman 996 & Накта",
+      "youtube_url": "https://youtu.be/1sbK6-7datg",
+      "json": "./podcasts/1sbK6-7datg/podcast.json",
+      "audio_prefix": "./podcasts/1sbK6-7datg/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 35,
+      "blurb": "35 реплик · 2 спикера · 0.2 ч"
+    },
+    {
+      "id": "NCjZ296W1MY",
+      "title": "Сыйкыр окутуп коюунун кесепеттери | Нурсейит Эрназаров | Ernis Kyiaz Podcast",
+      "youtube_url": "https://youtu.be/NCjZ296W1MY",
+      "json": "./podcasts/NCjZ296W1MY/podcast.json",
+      "audio_prefix": "./podcasts/NCjZ296W1MY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 19,
+      "blurb": "19 реплик · 2 спикера · 0.3 ч"
+    },
+    {
+      "id": "91c6PY_4vcc",
+      "title": "МЕН КЕЧИРҮҮНҮ ОЙЛОНУП ЖАТАМ | АСЕЛЬ НОГОЙБАЕВА | МИРЗАМАТОВ ВЛОГ",
+      "youtube_url": "https://youtu.be/91c6PY_4vcc",
+      "json": "./podcasts/91c6PY_4vcc/podcast.json",
+      "audio_prefix": "./podcasts/91c6PY_4vcc/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 104,
+      "blurb": "104 реплик · 2 спикера · 0.7 ч"
+    },
+    {
+      "id": "8pzvwcvKZqA",
+      "title": "СВЕТТИН КЫМБАТТАГАНЫ ЭЛГЕ ПАЙДАЛУУ! |ЖАШЫЛ ЭКОНОМИКАНЫН ПАЙДАСЫ ЭМНЕДЕ? | МИРЗАМАТОВ ВЛОГ",
+      "youtube_url": "https://youtu.be/8pzvwcvKZqA",
+      "json": "./podcasts/8pzvwcvKZqA/podcast.json",
+      "audio_prefix": "./podcasts/8pzvwcvKZqA/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 42,
+      "blurb": "42 реплик · 3 спикера · 0.4 ч"
+    },
+    {
+      "id": "BPDDPOEZx-g",
+      "title": "BPDDPOEZx-g",
+      "youtube_url": "https://youtu.be/BPDDPOEZx-g",
+      "json": "./podcasts/BPDDPOEZx-g/podcast.json",
+      "audio_prefix": "./podcasts/BPDDPOEZx-g/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 44,
+      "blurb": "44 реплик · 2 спикера · 0.3 ч"
+    },
+    {
+      "id": "x0IqMMgjc8M",
+      "title": "“Тентек, эркин болбосок, бизди жасалма интеллект алмаштырат”",
+      "youtube_url": "https://youtu.be/x0IqMMgjc8M",
+      "json": "./podcasts/x0IqMMgjc8M/podcast.json",
+      "audio_prefix": "./podcasts/x0IqMMgjc8M/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 56,
+      "blurb": "56 реплик · 3 спикера · 0.4 ч"
+    },
+    {
+      "id": "5pfS_BVIyEo",
+      "title": "“Эскини бузмайынча, жаңыны кура албайсың!”",
+      "youtube_url": "https://youtu.be/5pfS_BVIyEo",
+      "json": "./podcasts/5pfS_BVIyEo/podcast.json",
+      "audio_prefix": "./podcasts/5pfS_BVIyEo/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 48,
+      "blurb": "48 реплик · 3 спикера · 0.4 ч"
+    },
+    {
+      "id": "afDO9fWJg1I",
+      "title": "Шайыр образдагы Жеңиш мырзанын \"салмактуу ойлору\"!",
+      "youtube_url": "https://youtu.be/afDO9fWJg1I",
+      "json": "./podcasts/afDO9fWJg1I/podcast.json",
+      "audio_prefix": "./podcasts/afDO9fWJg1I/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 38,
+      "blurb": "38 реплик · 3 спикера · 0.1 ч"
+    },
+    {
+      "id": "6r93OAaAzaY",
+      "title": "\"Мен өтө баласаакмын\" - Эмиль Эсеналиев",
+      "youtube_url": "https://youtu.be/6r93OAaAzaY",
+      "json": "./podcasts/6r93OAaAzaY/podcast.json",
+      "audio_prefix": "./podcasts/6r93OAaAzaY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 72,
+      "blurb": "72 реплик · 3 спикера · 0.3 ч"
+    },
+    {
+      "id": "tNwuSP3Jlmo",
+      "title": "\"Yй-бүлө, бала тарбиясы, спорт жана бала, кыздарга болгон мамиле\"",
+      "youtube_url": "https://youtu.be/tNwuSP3Jlmo",
+      "json": "./podcasts/tNwuSP3Jlmo/podcast.json",
+      "audio_prefix": "./podcasts/tNwuSP3Jlmo/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 32,
+      "blurb": "32 реплик · 3 спикера · 0.2 ч"
+    },
+    {
+      "id": "UE1N8iH2jiI",
+      "title": "Айзиректин өлүмүнүн себеби. Айбек Улановтун камалышы. Жетим калган 5 бала / Мирзаматов влог",
+      "youtube_url": "https://youtu.be/UE1N8iH2jiI",
+      "json": "./podcasts/UE1N8iH2jiI/podcast.json",
+      "audio_prefix": "./podcasts/UE1N8iH2jiI/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 46,
+      "blurb": "46 реплик · 2 спикера · 0.3 ч"
+    },
+    {
+      "id": "QFhSdHTiTYs",
+      "title": "КЫЗДАРДЫ ЖАШ КЕЗИНЕН КОРГОЙЛУ | Нурзат Токтосунова",
+      "youtube_url": "https://youtu.be/QFhSdHTiTYs",
+      "json": "./podcasts/QFhSdHTiTYs/podcast.json",
+      "audio_prefix": "./podcasts/QFhSdHTiTYs/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        }
+      },
+      "num_clips": 48,
+      "blurb": "48 реплик · 2 спикера · 0.6 ч"
+    },
+    {
+      "id": "0G_4-QPbpDY",
+      "title": "Апам бар, бирок жок | Мени таштап кеттиң - дей берет | Гүльзат Мамытбек",
+      "youtube_url": "https://youtu.be/0G_4-QPbpDY",
+      "json": "./podcasts/0G_4-QPbpDY/podcast.json",
+      "audio_prefix": "./podcasts/0G_4-QPbpDY/audio/",
+      "speakers": {
+        "SPEAKER_00": {
+          "name": "SPEAKER_00",
+          "role": "Конок",
+          "klass": "guest"
+        },
+        "SPEAKER_01": {
+          "name": "SPEAKER_01",
+          "role": "Алып баруучу",
+          "klass": "host"
+        },
+        "SPEAKER_02": {
+          "name": "SPEAKER_02",
+          "role": "Конок",
+          "klass": "guest"
+        }
+      },
+      "num_clips": 34,
+      "blurb": "34 реплик · 3 спикера · 0.2 ч"
     }
   ]
 }
