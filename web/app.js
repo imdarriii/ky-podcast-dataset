@@ -1,5 +1,3 @@
-const PAGE_SIZE = 20;
-
 const FALLBACK = {
   SPEAKER_00: { name: "SPEAKER_00", role: "", klass: "guest" },
   SPEAKER_01: { name: "SPEAKER_01", role: "", klass: "host" },
@@ -16,11 +14,6 @@ const clipDur = (c) => {
   return Math.max(0, Number(c.end_sec) - Number(c.start_sec));
 };
 
-const words = (c) => {
-  if (c.text_words != null) return c.text_words;
-  return (c.text || "").trim().split(/\s+/).filter(Boolean).length;
-};
-
 const escapeHtml = (s) => String(s)
   .replaceAll("&", "&amp;")
   .replaceAll("<", "&lt;")
@@ -32,7 +25,6 @@ let current = null;
 let data = null;
 let filter = "all";
 let query = "";
-let page = 1;
 
 const speakerMeta = (id) => (current && current.speakers && current.speakers[id]) || FALLBACK[id] || { name: id, role: "", klass: "" };
 
@@ -40,9 +32,6 @@ const audioSrc = (clip) => {
   const prefix = current.audio_prefix || "./audio/";
   return prefix + String(clip.audio || clip.filename).replace(/\.wav$/i, ".opus");
 };
-
-const speakerList = (pod) => Object.entries(pod.speakers || {})
-  .map(([, s]) => `${s.name}${s.role ? " · " + s.role : ""}`);
 
 async function load() {
   catalog = await (await fetch("./catalog.json")).json();
@@ -59,7 +48,6 @@ async function load() {
   data = await (await fetch(current.json)).json();
   filter = "all";
   query = "";
-  page = 1;
   renderDetail();
   renderRows();
 }
@@ -68,19 +56,21 @@ function renderHome() {
   document.title = "ky-podcast-dataset";
   document.getElementById("home").classList.remove("hidden");
   document.getElementById("detail").classList.add("hidden");
+  const totalClips = catalog.podcasts.reduce((sum, p) => sum + (Number(p.num_clips) || 0), 0);
+  document.getElementById("home-sub").textContent =
+    `${catalog.podcasts.length} выпусков · ${totalClips} реплик. Выбери выпуск — реплики идут одной линией, по времени.`;
   document.getElementById("home-tags").innerHTML = [
     ["language", "ky"],
-    ["task", "speech"],
     ["podcasts", String(catalog.podcasts.length)],
+    ["реплики", String(totalClips)],
   ].map(([k, v]) => `<span class="tag"><b>${k}</b> ${v}</span>`).join("");
 
-  document.getElementById("shows").innerHTML = catalog.podcasts.map((p) => {
-    const people = speakerList(p);
-    return `<a class="show-card" href="./?id=${encodeURIComponent(p.id)}">
-      <span class="show-kicker">${p.id}</span>
+  document.getElementById("shows").innerHTML = catalog.podcasts.map((p, i) => {
+    const n = Number(p.num_clips) || 0;
+    return `<a class="show-line" href="./?id=${encodeURIComponent(p.id)}">
+      <span class="show-n">${String(i + 1).padStart(2, "0")}</span>
       <strong>${escapeHtml(p.title)}</strong>
-      <span class="show-blurb">${escapeHtml(p.blurb || "2 спикера")}</span>
-      <span class="show-people">${people.map((n) => escapeHtml(n)).join("<br>")}</span>
+      <span class="show-count">${n} реплик</span>
     </a>`;
   }).join("");
 }
@@ -127,7 +117,6 @@ function renderDetail() {
   filters.querySelectorAll("button").forEach((btn) => {
     btn.onclick = () => {
       filter = btn.dataset.filter;
-      page = 1;
       filters.querySelectorAll("button").forEach((b) => b.classList.toggle("on", b === btn));
       renderRows();
     };
@@ -136,7 +125,6 @@ function renderDetail() {
   document.getElementById("q").value = "";
   document.getElementById("q").oninput = (e) => {
     query = e.target.value.trim().toLowerCase();
-    page = 1;
     renderRows();
   };
 
@@ -156,40 +144,31 @@ function filteredClips() {
     const who = speakerMeta(c.speaker);
     const blob = [c.text, c.speaker, who.name, who.role, c.start_sec, c.audio].join(" ").toLowerCase();
     return blob.includes(query);
-  });
+  }).sort((a, b) => (Number(a.start_sec) || 0) - (Number(b.start_sec) || 0));
 }
 
 function renderRows() {
   const all = filteredClips();
-  const pages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
-  if (page > pages) page = pages;
-  const slice = all.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
   const body = document.getElementById("rows");
-  body.innerHTML = slice.map((c, i) => {
-    const idx = (page - 1) * PAGE_SIZE + i + 1;
+  body.innerHTML = all.map((c, i) => {
     const who = speakerMeta(c.speaker);
     const dur = clipDur(c);
     const src = audioSrc(c);
-    return `<tr>
-      <td class="n">${c.id || idx}</td>
-      <td class="audio">
-        <div class="player">
-          <button type="button" class="go" aria-label="play">▶</button>
-          <audio preload="none" src="${src}"></audio>
-          <span class="len">${fmtClock(dur)}</span>
-        </div>
-      </td>
-      <td><span class="spk ${who.klass || ""}">${who.name}</span>${who.role ? `<span class="role">${who.role}</span>` : ""}</td>
-      <td class="text-cell">
-        <div class="text-box">
-          <button type="button" class="text-toggle" aria-label="показать текст">▾</button>
-          <p class="text-preview">${escapeHtml(c.text || "—")}</p>
-          <p class="text-full">${escapeHtml(c.text || "—")}</p>
-        </div>
-      </td>
-      <td>${fmtClock(c.start_sec)}</td>
-      <td>${fmtClock(dur)} · ${words(c)} w</td>
-    </tr>`;
+    return `<li>
+      <span class="n">${c.id || i + 1}</span>
+      <div class="player">
+        <button type="button" class="go" aria-label="play">▶</button>
+        <audio preload="none" src="${src}"></audio>
+        <span class="len">${fmtClock(dur)}</span>
+      </div>
+      <span class="who"><span class="spk ${who.klass || ""}">${who.name}</span></span>
+      <span class="when">${fmtClock(c.start_sec)}</span>
+      <div class="text-box">
+        <button type="button" class="text-toggle" aria-label="показать текст">▾</button>
+        <p class="text-preview">${escapeHtml(c.text || "—")}</p>
+        <p class="text-full">${escapeHtml(c.text || "—")}</p>
+      </div>
+    </li>`;
   }).join("");
 
   body.querySelectorAll(".player").forEach((box) => {
@@ -211,15 +190,6 @@ function renderRows() {
     };
   });
 
-  const pager = document.getElementById("pager");
-  pager.innerHTML = `
-    <span>${all.length} rows · page ${page}/${pages}</span>
-    <span>
-      <button id="prev" ${page <= 1 ? "disabled" : ""}>Prev</button>
-      <button id="next" ${page >= pages ? "disabled" : ""}>Next</button>
-    </span>`;
-  document.getElementById("prev").onclick = () => { page -= 1; renderRows(); };
-  document.getElementById("next").onclick = () => { page += 1; renderRows(); };
 }
 
 load();

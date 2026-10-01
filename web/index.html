@@ -18,7 +18,7 @@
   <main class="page">
     <section id="home">
       <h1>Kyrgyz podcast speech dataset</h1>
-      <p class="sub">Сначала выбери выпуск. Потом — спикеры, клипы, тексты и скачивание, как в Dataset Viewer.</p>
+      <p class="sub" id="home-sub">Сначала выбери выпуск. Реплики внутри идут одной линией, по времени.</p>
       <div class="tags" id="home-tags"></div>
       <div class="shows" id="shows"></div>
     </section>
@@ -44,7 +44,7 @@
       <section class="viewer" id="panel-viewer">
         <div class="viewer-head">
           <h2>Dataset Viewer</h2>
-          <p>Строка = реплика. Стрелка слева открывает текст. ▶ играет клип.</p>
+          <p>Одна линия по времени. Стрелка открывает текст, ▶ играет клип.</p>
         </div>
         <div class="toolbar">
           <label class="grow">Search
@@ -52,22 +52,7 @@
           </label>
           <div class="speaker-filters" id="filters"></div>
         </div>
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th class="n">#</th>
-                <th class="audio">audio</th>
-                <th>speaker</th>
-                <th>text</th>
-                <th>start</th>
-                <th>duration</th>
-              </tr>
-            </thead>
-            <tbody id="rows"></tbody>
-          </table>
-        </div>
-        <div class="pager" id="pager"></div>
+        <ol class="clip-line" id="rows"></ol>
       </section>
 
       <section class="card-panel hidden" id="panel-card">
